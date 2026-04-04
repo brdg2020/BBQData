@@ -1,0 +1,5197 @@
+[
+    {
+        "id": "2026-03-08-konusma",
+        "date": "2026-03-08",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Standart Amerikan 5li majör sisteminde Majör açışları en az 5kart ve en az 12 puan  gösterir.",
+        "explanation_en": "According to 5card major bidding system, major openings shows at least 5card and at least 12 points.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AKQJ",
+            "hearts": "Q8542",
+            "diamonds": "54",
+            "clubs": "32"
+        },
+        "options": [
+            "P",
+            "1♥",
+            "1♠",
+            "1NT"
+        ],
+        "correct_answer": "1♥",
+        "is_premium": false
+    },
+    {
+        "id": "2026-03-09-konusma",
+        "date": "2026-03-09",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Standart Amerikan 5li majör sisteminde Majör açışları en az 5kart ve en az 12 puan  gösterir. Her iki majör 5 adet ise önce ♠ açılır. Peki neden? İkinci konuşmasında elini daha iyi alabilmesi için.",
+        "explanation_en": "According to 5card major bidding system, major openings shows at least 5card and at least 12 points. When both majors 5 card. 1♠ opening is recommended in order to show our second suit in the next bid.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "QJ953",
+            "hearts": "AKQ95",
+            "diamonds": "J6",
+            "clubs": "Q"
+        },
+        "options": [
+            "1♥",
+            "1♠",
+            "1NT",
+            "2♥"
+        ],
+        "correct_answer": "1♠",
+        "is_premium": false
+    },
+    {
+        "id": "2026-03-10-konusma",
+        "date": "2026-03-10",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Standart Amerikan 5li majör sisteminde Majör açışları en az 5kart ve en az 12 puan  gösterir. Uzun rengimiz varken 10-11 puanlı ellerle de oyun açılabilir. Yani uzun rengimize uzunluk puanı vererek elimizi yeniden değerlendiririz.",
+        "explanation_en": "According to 5card major bidding system, major openings shows at least 5card and at least 12 points. We can open with 10-11 HCP when we have long suits by adding \"length points\" to our suits with 5 or more cards.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AJT965",
+            "hearts": "KQJ",
+            "diamonds": "43",
+            "clubs": "65"
+        },
+        "options": [
+            "P",
+            "1♠",
+            "2♠",
+            "1NT"
+        ],
+        "correct_answer": "1♠",
+        "is_premium": false
+    },
+    {
+        "id": "2026-03-11-konusma",
+        "date": "2026-03-11",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Standart Amerikan 5li majör sisteminde Majör açışları en az 5kart ve en az 12 puan  gösterir. Uzun rengimiz varken 10-11 puanlı ellerle de oyun açılabilir. ",
+        "explanation_en": "According to 5card major bidding system, major openings shows at least 5card and at least 12 High Card Points(HCP). We can open with 10-11 HCP when we have long suits by adding \"length points\" to our suits with 5 or more cards.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A543",
+            "hearts": "KJ654",
+            "diamonds": "K85",
+            "clubs": "8"
+        },
+        "options": [
+            "P",
+            "1♥",
+            "1♠",
+            "2♥"
+        ],
+        "correct_answer": "1♥",
+        "is_premium": false
+    },
+    {
+        "id": "2026-03-12-konusma",
+        "date": "2026-03-12",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Standart Amerikan 5li majör sisteminde Majör açışları en az 5kart ve en az 12 puan  gösterir. Uzun rengimiz varken 10-11 puanlı ellerle de oyun açılabilir. 2. konuşmamızda elimizi daha iyi anlatabilmek için 5-5 majörden önce ♠ açılır.",
+        "explanation_en": "According to 5card major bidding system, major openings shows at least 5card and at least 12 High Card Points(HCP). We can open with 10-11 HCP when we have long suits by adding \"length points\" to our suits with 5 or more cards. Concerning our second bid, it is wise to open 1♠. And then we can bid our second suit easily.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A9754",
+            "hearts": "KQJ83",
+            "diamonds": "54",
+            "clubs": "6"
+        },
+        "options": [
+            "P",
+            "1♥",
+            "1♠",
+            "2♥"
+        ],
+        "correct_answer": "1♠",
+        "is_premium": false
+    },
+    {
+        "id": "2026-03-13-atak",
+        "date": "2026-03-13",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Kozlu oyuna genelde rakip tarafından konuşulmayan renklerden atak edilir. Sıralı (bitişik onörlü renk) bir rengimiz varken ortağa mesaj vermek için sıranın büyüğünü oynarız. ",
+        "explanation_en": "Generally we lead from unbid suits. When we have a sequence (touching honors) we lead high of the sequence to tell partner that we have the lower honor. ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "1♥"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♥"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "4♥"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "A653",
+            "hearts": "J54",
+            "diamonds": "J65",
+            "clubs": "QJ5"
+        },
+        "options": [
+            "♠A",
+            "♥4",
+            "♦5",
+            "♣Q"
+        ],
+        "correct_answer": "♣Q",
+        "is_premium": false
+    },
+    {
+        "id": "2026-03-14-atak",
+        "date": "2026-03-14",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Kozlu oyuna genelde tek kartı (koz dışında) çıkmak iyi sonuç verir. Amacımız elimizdeki kupayı bitirip çakmak (kozlamak).",
+        "explanation_en": "Usually leading singleton (other than trump) is a good choice. Our goal is to finish our hearts and try to ruff.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "K65",
+            "hearts": "4",
+            "diamonds": "QJ652",
+            "clubs": "J643"
+        },
+        "options": [
+            "♠5",
+            "♥4",
+            "♦Q",
+            "♣3"
+        ],
+        "correct_answer": "♥4",
+        "is_premium": false
+    },
+    {
+        "id": "2026-03-15-konusma",
+        "date": "2026-03-15",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "5 kart majör yokken uzun olan minörü açarız. minör kartlar eşit sayıda ise 3-3 iken ♣, 4-4 ve 5-5 iken ♦ açılır. Peki bu elle 1♣ açmak çok mu kötü? Hayır, fakat tam dağılımımızı veremeyiz. Günümüzde birçok oyuncu kaliteli olan minörünü açabilmektedir.",
+        "explanation_en": "We open our longest minor when we don't have 5card major. Open 1♣ with 3-3 minors, open 1♦ with 4-4 or 5-5 in both minors. Is it too bad opening 1♣ with this hand? No, nowadays many players tend to open strongest minor but you can't tell your full hand shape with 1♣ opening. ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A632",
+            "hearts": "Q",
+            "diamonds": "QJ42",
+            "clubs": "KQ98"
+        },
+        "options": [
+            "P",
+            "1♣",
+            "1♦",
+            "1♠"
+        ],
+        "correct_answer": "1♦",
+        "is_premium": false
+    },
+    {
+        "id": "2026-03-16-konusma",
+        "date": "2026-03-16",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "5 kart majör yokken uzun olan minörü açarız. minör kartlar eşit sayıda ise 3-3 iken ♣, 4-4 ve 5-5 iken ♦ açılır. Bazı oyuncular kaliteli olan minörü açsa da tam el tarifi vermek için 1♣ açışı doğrudur.",
+        "explanation_en": "We open our longest minor when we don't have 5card major. Open 1♣ with 3-3 minors, open 1♦ with 4-4 or 5-5 in both minors. Many players tend to open strongest minor but you can't tell your full hand shape unless you open 1♣ with this hand. ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AJ54",
+            "hearts": "QJ2",
+            "diamonds": "A83",
+            "clubs": "J82"
+        },
+        "options": [
+            "1NT",
+            "1♣",
+            "1♦",
+            "1♠"
+        ],
+        "correct_answer": "1♣",
+        "is_premium": false
+    },
+    {
+        "id": "2026-03-17-konusma",
+        "date": "2026-03-17",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "5 kart majör yokken uzun olan minörü açarız. minör kartlar eşit sayıda ise 3-3 iken ♣, 4-4 ve 5-5 iken ♦ açılır. ",
+        "explanation_en": "We open our longest minor when we don't have 5card major. Open 1♣ with 3-3 minors, open 1♦ with 4-4 or 5-5 in both minors. ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "8743",
+            "hearts": "KQJ2",
+            "diamonds": "AK",
+            "clubs": "J83"
+        },
+        "options": [
+            "1NT",
+            "1♣",
+            "1♦",
+            "1♥"
+        ],
+        "correct_answer": "1♣",
+        "is_premium": false
+    },
+    {
+        "id": "2026-03-18-konusma",
+        "date": "2026-03-18",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "15-16-17 puan ve dengeli el ile 1NT açılır. \nDengeli el: Kabaca ek kartı olmayan el tipledir.",
+        "explanation_en": "1NT shows 15-16-17 and balanced hand. Balanced hand: Roughly no singleton card in any suit. \n*If you play ACOL bidding system 1NT opening shows 12-13-14 pts. ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "53",
+            "hearts": "KQ43",
+            "diamonds": "AK54",
+            "clubs": "QJ3"
+        },
+        "options": [
+            "1NT",
+            "1♣",
+            "1♦",
+            "1♥"
+        ],
+        "correct_answer": "1NT",
+        "is_premium": true
+    },
+    {
+        "id": "2026-03-19-konusma",
+        "date": "2026-03-19",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Briçteki en tartışmalı konulardan birisi. 5kart majör 15-16-17 puan ile ne açacağız?\n1NT açmak yanlış değil. Çoğu oyuncunun tercihidir.",
+        "explanation_en": "One of the most controversial issue in bridge. Can we open 1NT with 5c major? Yes, many people choose 1NT with 5c major balanced hand and 15-17 pts.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "K4",
+            "hearts": "KQ942",
+            "diamonds": "QJ5",
+            "clubs": "AJ3"
+        },
+        "options": [
+            "1♣",
+            "1♥",
+            "1NT",
+            "2♥"
+        ],
+        "correct_answer": "1♥",
+        "is_premium": true
+    },
+    {
+        "id": "2026-03-20-konusma",
+        "date": "2026-03-20",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "5422 dağılımla da 1NT açılabilir. 1karo açışı da yanlış değil fakat 2. konuşmada elimizi anlatmamız zorlaşabilir. Tavsiyem 5li majoru olmayan 5422 dağılımla da 1NT açmanız.",
+        "explanation_en": "with 5422 shape 1NT can be opened. 1d opening is not false but it can be challenging when we rebid after opening 1d. My advise is to open 1NT with 5422 without 5c major.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "K4",
+            "hearts": "KJ65",
+            "diamonds": "AQJ52",
+            "clubs": "J6"
+        },
+        "options": [
+            "1♦",
+            "1♥",
+            "1NT",
+            "2♦"
+        ],
+        "correct_answer": "1NT",
+        "is_premium": true
+    },
+    {
+        "id": "2026-03-21-konusma",
+        "date": "2026-03-21",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "5422 dağılımla da 1NT açılabilir. 1karo açışı da yanlış değil fakat 2. konuşmada elimizi anlatmamız zorlaşabilir. Tavsiyem 5li majoru olmayan 5422 dağılımla da 1NT açmanız.",
+        "explanation_en": "with 5422 shape 1NT can be opened. 1d opening is not false but it can be challenging when we rebid after opening 1d. My advise is to open 1NT with 5422 without 5c major.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "KQJ2",
+            "hearts": "A5",
+            "diamonds": "QJ752",
+            "clubs": "Q6"
+        },
+        "options": [
+            "1♦",
+            "1♠",
+            "1NT",
+            "2♦"
+        ],
+        "correct_answer": "1NT",
+        "is_premium": true
+    },
+    {
+        "id": "2026-03-22-konusma",
+        "date": "2026-03-22",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "1NT Açışı 15-16-17 puan ve dengeli el gösterir. Dengeli eller kabaca tek kartı olmayan el tipleridir.",
+        "explanation_en": "1NT opening shows 15-16-17 pts and balanced hand. Roughly balanced hands refers to hand having no singleton card.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "K65",
+            "hearts": "A65",
+            "diamonds": "QJ",
+            "clubs": "KQ542"
+        },
+        "options": [
+            "P",
+            "1♣",
+            "1NT",
+            "2♣"
+        ],
+        "correct_answer": "1NT",
+        "is_premium": true
+    },
+    {
+        "id": "2026-03-23-konusma",
+        "date": "2026-03-23",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "1NT Açışı 15-16-17 puan ve dengeli el gösterir. Dengeli eller kabaca tek kartı olmayan el tipleridir. 5422 ve 6322 dağılımlar yarı dengeli dağılımlardır. ",
+        "explanation_en": "1NT opening shows 15-16-17 pts and balanced hand. Roughly balanced hands refer to hand having no singleton card. 5422 and 6322 shapes are semi-balanced hands.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AKQ",
+            "hearts": "Q7",
+            "diamonds": "Q3",
+            "clubs": "Q87432"
+        },
+        "options": [
+            "P",
+            "1♣",
+            "1NT",
+            "2♣"
+        ],
+        "correct_answer": "1NT",
+        "is_premium": true
+    },
+    {
+        "id": "2026-03-24-konusma",
+        "date": "2026-03-24",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Genelde 11 puan ve dengeli ellerle pas geçmek iyi fikirdir. Eğer agresif bir oyuncuysanız o başka :)",
+        "explanation_en": "Usually it's a good idea to pass with 11 pts balanced hands. It changes if you are an aggressive player :)",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A65",
+            "hearts": "K654",
+            "diamonds": "QJ54",
+            "clubs": "J6"
+        },
+        "options": [
+            "P",
+            "1♦",
+            "1♥",
+            "1NT"
+        ],
+        "correct_answer": "P",
+        "is_premium": true
+    },
+    {
+        "id": "2026-03-25-konusma",
+        "date": "2026-03-25",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "5kart olunca uzunluk puanı ekleyeyim 1 seviyesinde oyun açabiliriz.",
+        "explanation_en": "With the help of length points coming from our 5th ♥ we can open at 1 level.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A65",
+            "hearts": "KQ1054",
+            "diamonds": "Q43",
+            "clubs": "62"
+        },
+        "options": [
+            "P",
+            "1♥",
+            "1NT",
+            "2♥"
+        ],
+        "correct_answer": "1♥",
+        "is_premium": true
+    },
+    {
+        "id": "2026-03-26-konusma",
+        "date": "2026-03-26",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "5kart majör ve 12 puan ile 1 majör açabiliriz. Açışlarda kart kalitesine bakmaya gerek yok, nitelik değil nicelik önemli! Araya girişlerde bu değişecek!.",
+        "explanation_en": "12 pts with 5card major we can open 1major regardless of the quality of the suit. Quantity is important than quality when we talk about openings. This will change in overcalls!",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A65",
+            "hearts": "108762",
+            "diamonds": "AKJ3",
+            "clubs": "2"
+        },
+        "options": [
+            "P",
+            "1♦",
+            "1♥",
+            "2♥"
+        ],
+        "correct_answer": "1♥",
+        "is_premium": true
+    },
+    {
+        "id": "2026-03-27-konusma",
+        "date": "2026-03-27",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "18-19 puan ve dengeli ellerle doğru açış 1minördür. 4-4 minörle 1♦.\n2NT açışı 20-21-22 puan gösterir. (bazı yerlerde 20-21 görürsünüz, o da doğru)\n1NT açışı 15-16-17 puan gösterir.",
+        "explanation_en": "With 18-19 pts 1minor opening is correct. When you have 4-4 in both minors open 1♦.\n2NT opening shows 20-21-22 pts (some say 20-21 pts, also correct)\n1NT opening shows 15-16-17 pts",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "KQ6",
+            "hearts": "AK",
+            "diamonds": "8754",
+            "clubs": "AQJ3"
+        },
+        "options": [
+            "1♣",
+            "1♦",
+            "1NT",
+            "2NT"
+        ],
+        "correct_answer": "1♦",
+        "is_premium": true
+    },
+    {
+        "id": "2026-03-28-konusma",
+        "date": "2026-03-28",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "18-19 puan ve dengeli ellerle doğru açış 1minördür.\n2NT açışı 20-21-22 puan gösterir. (bazı yerlerde 20-21 görürsünüz, o da doğru)\n1NT açışı 15-16-17 puan gösterir.",
+        "explanation_en": "With 18-19 pts 1minor opening is correct. When you have 4-4 in both minors open 1♦.\n2NT opening shows 20-21-22 pts (some say 20-21 pts, also correct)\n1NT opening shows 15-16-17 pts",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AJ5",
+            "hearts": "K2",
+            "diamonds": "KJ654",
+            "clubs": "KQJ"
+        },
+        "options": [
+            "1♦",
+            "1NT",
+            "2♦",
+            "2NT"
+        ],
+        "correct_answer": "1♦",
+        "is_premium": true
+    },
+    {
+        "id": "2026-03-29-konusma",
+        "date": "2026-03-29",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Normalde 1 seviyesinde oyun açmak için 12 puan gerekir. Fakat uzun rengi (en az 5kart) olan 10-11 puanlık ellerle de 1 seviyesinde oyun açılabilir.",
+        "explanation_en": "Normally 1 level opening shows at least 12 HCP (Honor Count Points) However, if you have long suit (at least 5card) with 10-11 it is recommended to open at 1 level.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "KJ6543",
+            "hearts": "AQ43",
+            "diamonds": "87",
+            "clubs": "4"
+        },
+        "options": [
+            "P",
+            "1♥",
+            "1♠",
+            "2♠"
+        ],
+        "correct_answer": "1♠",
+        "is_premium": true
+    },
+    {
+        "id": "2026-03-30-atak",
+        "date": "2026-03-30",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "NT'ye genelde uzun renk atak edilir. Rakipte en az 5kart olduğundan ♠ atak etmeyiz. ♠ rakibin uzun rengi olduğundan kendi uzun rengimizi çıkarız. ",
+        "explanation_en": "Normally we lead our longest suit against NT however opponent has at least 5♠ so we omit that suit and lead our longest suit.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "W",
+                "call": "1♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "KJ543",
+            "hearts": "K654",
+            "diamonds": "K9",
+            "clubs": "93"
+        },
+        "options": [
+            "♠3",
+            "♥4",
+            "♦K",
+            "♣9"
+        ],
+        "correct_answer": "♥4",
+        "is_premium": true
+    },
+    {
+        "id": "2026-03-31-konusma",
+        "date": "2026-03-31",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "1 seviyesinde oyun açışı en az 12 puan gösterir. 5 kart majörümüz yoksa uzun olan minörü açarız.",
+        "explanation_en": "1 level opening shows at least 12 pts. If we don't have 5 card major we open our longest minor.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AQJ10",
+            "hearts": "KQJ4",
+            "diamonds": "654",
+            "clubs": "93"
+        },
+        "options": [
+            "P",
+            "1♦",
+            "1♥",
+            "1♠"
+        ],
+        "correct_answer": "1♦",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-01-atak",
+        "date": "2026-04-01",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Genelde NT'ye karşı konuşulmayan renklerden uzun olanı atak etmek mantıklı bir seçimdir. Sinek de çıkılabilir fakat daha kaliteli olduğu için kupa çıkmak iyi fikirdir.",
+        "explanation_en": "Usually it's a good idea to lead from longest unbid suits. We can also lead ♣ but heart suit seems stronger than ♣. ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♦"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "1♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "K987",
+            "hearts": "K654",
+            "diamonds": "6",
+            "clubs": "J652"
+        },
+        "options": [
+            "♠7",
+            "♥4",
+            "♦6",
+            "♣2"
+        ],
+        "correct_answer": "♥4",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-02-konusma",
+        "date": "2026-04-02",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "2NT açışı 20-21-22 (20-21 olarak da görmüş olabilirsiniz) puan ve dengeli el gösterir. \n1Majör açmak yanlış değil fakat elimizi tek konuşmayla anlatmak daha faydalı olabilir.",
+        "explanation_en": "2NT shoes 20-21-22 and balanced hand. 1major opening is also OK but we can show our hand better with 2NT opening. ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AK543",
+            "hearts": "KJ3",
+            "diamonds": "AJ6",
+            "clubs": "KQ"
+        },
+        "options": [
+            "1♠",
+            "1NT",
+            "2♠",
+            "2NT"
+        ],
+        "correct_answer": "2NT",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-03-atak",
+        "date": "2026-04-03",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "NT'ye uzun rengimizi çıkabiliriz. Ufak maça çıkmak doğrudur, 2, 5 fark etmez ortağınızla özel bir anlaşmanız yoksa.",
+        "explanation_en": "We can lead our longest suit to NT. Small ♠ is correct, 2 or 5, if you don't have special agreement with your partner. ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "A8652",
+            "hearts": "KJ4",
+            "diamonds": "J106",
+            "clubs": "98"
+        },
+        "options": [
+            "♠5",
+            "♠A",
+            "♦J",
+            "♣9"
+        ],
+        "correct_answer": "♠5",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-04-konusma",
+        "date": "2026-04-04",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "23 ve daha fazla puan ile sistemdeki en güçlü açışı, 2♣, yaparız.",
+        "explanation_en": "Strongest opening in Standart American Bidding system is 2♣ opening, shows at least 23 pts.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [],
+        "hand": {
+            "spades": "AK52",
+            "hearts": "AKQ",
+            "diamonds": "AKJ10",
+            "clubs": "83"
+        },
+        "options": [
+            "1♦",
+            "2♣",
+            "2NT",
+            "3NT"
+        ],
+        "correct_answer": "2♣",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-05-atak",
+        "date": "2026-04-05",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Konuşulmayan renklerden AK varsa önceliğimiz o renk olmalı. \nNeden K çıkmıyoruz? Çünkü genellikle oyuncular anlaşmalarına göre sıralı kartın büyüğünü çıkar. Böylece defansta daha rahat ederiz.",
+        "explanation_en": "Our priority should be leading from AK of an unbid suit. Why not leading K? Almost every players lead high from touching honors so that they can defence well.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "4♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "654",
+            "hearts": "AK6",
+            "diamonds": "J1092",
+            "clubs": "532"
+        },
+        "options": [
+            "♠4",
+            "♥A",
+            "♦A",
+            "♣3"
+        ],
+        "correct_answer": "♥A",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-06-konusma",
+        "date": "2026-04-06",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Tek başımıza zor yapacak güçte el ile sistemdeki en güçlü açış 2♣ yapılır. 2♣ açışı; dengeli el ile en az 23 puan, dengesiz el ile daha az puanla açılabilir.",
+        "explanation_en": "We can open 2♣, strongest bid in system, when we can make Game with our own hand. \n2♣ opening shows 23 points when balanced, it can be lesser with unbalanced hands. ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AK6",
+            "hearts": "KQJ1054",
+            "diamonds": "AQJ",
+            "clubs": "3"
+        },
+        "options": [
+            "1♥",
+            "2♣",
+            "2♥",
+            "2NT"
+        ],
+        "correct_answer": "2♣",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-07-atak",
+        "date": "2026-04-07",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "NT'ye konuşulmayan renklerden uzun olanı çıkmak mantıklıdır. Ortakla anlaşmanız yoksa 3, 4 fark etmez.",
+        "explanation_en": "Leading our longest suit from unbid suits is logical. It is not crucial leading 3 or 4 if you don't have an agreement with your partner.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♦"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "1♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "K654",
+            "hearts": "KQ4",
+            "diamonds": "7",
+            "clubs": "J9743"
+        },
+        "options": [
+            "♠4",
+            "♥K",
+            "♦7",
+            "♣4"
+        ],
+        "correct_answer": "♣4",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-08-konusma",
+        "date": "2026-04-08",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "2 seviyesindeki açışlara zayıf açışlar denir ve 5-10 puan & 6 kart gösterir.",
+        "explanation_en": "2 level openings are weak openings shows 5-10 pts and 6cards.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "KQ6543",
+            "hearts": "K5",
+            "diamonds": "965",
+            "clubs": "94"
+        },
+        "options": [
+            "P",
+            "1♠",
+            "2♠",
+            "3♠"
+        ],
+        "correct_answer": "2♠",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-09-atak",
+        "date": "2026-04-09",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Şablon bir koz atak konuşmasıdır. Yerde kısa maça beklediğimizden koz çıkıp deklaranın çakalarını azaltırız.",
+        "explanation_en": "Standard trump lead bidding. Dummy is short in spades so we should prevent declarer ruffing from dummy.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "1NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "2♦"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "AQ97",
+            "hearts": "K75",
+            "diamonds": "965",
+            "clubs": "J103"
+        },
+        "options": [
+            "♠A",
+            "♥5",
+            "♦5",
+            "♣J"
+        ],
+        "correct_answer": "♦5",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-10-konusma",
+        "date": "2026-04-10",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Zayıf 2 açışı 5-10 puan ve 6 kart gösterir. \n*Bazı oyuncular 2Majör açarken rengin kaliteli olması yönünde ısrarcıdır.",
+        "explanation_en": "Weak 2 openings shoes 5-10 pts with 6card. \n*Some players insists with having solid suits when opening weak.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A64",
+            "hearts": "1076532",
+            "diamonds": "K6",
+            "clubs": "J3"
+        },
+        "options": [
+            "P",
+            "1♥",
+            "2♥",
+            "3♥"
+        ],
+        "correct_answer": "2♥",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-11-atak",
+        "date": "2026-04-11",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortak kupaları gösterdiği için onun renginden başlamak daha mantıklı olacaktır. 2 taneden büyük olanı çıkarız ki rengi tıkamayalım.",
+        "explanation_en": "Since partner showed hearts we can lead heart. Lead high from doubleton to prevent blocking the suit.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "W",
+                "call": "1♠"
+            },
+            {
+                "seat": "N",
+                "call": "2♥"
+            },
+            {
+                "seat": "E",
+                "call": "2♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "Q43",
+            "hearts": "K6",
+            "diamonds": "J1094",
+            "clubs": "9832"
+        },
+        "options": [
+            "♥K",
+            "♥6",
+            "♦J",
+            "♣2"
+        ],
+        "correct_answer": "♥K",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-12-konusma",
+        "date": "2026-04-12",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "3 seviyesindeki zayıf açışlar 5-10 puan ve 7 kart gösterir.",
+        "explanation_en": "3 level weak openings show 5-10 pts with 7cads.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "Q4",
+            "hearts": "6",
+            "diamonds": "KQJ8743",
+            "clubs": "J65"
+        },
+        "options": [
+            "P",
+            "1♦",
+            "2♦",
+            "3♦"
+        ],
+        "correct_answer": "3♦",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-13-atak",
+        "date": "2026-04-13",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "NT'ye atak etseydik kupa çıkardık, şimdi ataktan löve kaybetmemek için en boş renkten çıkmak mantıklı. Sıralı rengimiz olsaydı tercihimiz o olurdu.",
+        "explanation_en": "We would lead heart if we have played against NT. We should try to avoid losing trick from lead so we can lead from clubs. If we hand sequence we would have led it. ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "3♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "A4",
+            "hearts": "A6543",
+            "diamonds": "J76",
+            "clubs": "764"
+        },
+        "options": [
+            "♠A",
+            "♥4",
+            "♦6",
+            "♣4"
+        ],
+        "correct_answer": "♣4",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-14-konusma",
+        "date": "2026-04-14",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "56. Avrupa Takım Şampiyonasından bir el. Uzun renklerimiz olduğundan 10-11 puan ile 1 seviyesinde oyun açabiliriz. ",
+        "explanation_en": "Hand from 56th European Team Championship. Since we have long suits we can open with 10-11 points.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "32",
+            "hearts": "KJ1053",
+            "diamonds": "AQ942",
+            "clubs": "8"
+        },
+        "options": [
+            "P",
+            "1♦",
+            "1♥",
+            "2♥"
+        ],
+        "correct_answer": "1♥",
+        "is_premium": true
+    },
+    
+    {
+        "id": "2026-04-15-atak",
+        "date": "2026-04-15",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "56. Avrupa Takım Şampiyonasından bir el. Sıralının büyüğünü çıkmak mantıklı. Diğer bir seçenek de kupa olabilirdi.",
+        "explanation_en": "Hand from 56th European Team Championship. We can high from from sequence (touching honors). Another option can be leading from heart.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "2♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "5",
+            "hearts": "10872",
+            "diamonds": "KQ76",
+            "clubs": "KJ42"
+        },
+        "options": [
+            "♠5",
+            "♥2",
+            "♦K",
+            "♣2"
+        ],
+        "correct_answer": "♦K",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-16-konusma",
+        "date": "2026-04-16",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "56. Avrupa Takım Şampiyonasından bir el. 5 kart ve en az 12 puan ile 1majör açabiliriz. 5332 dağılım olsaydı 1NT açılabilirdi.",
+        "explanation_en": "Hand from 56th European Team Championship. We can open 1major with 12 pts and 5card. If we had 5332 distribution we could open 1NT.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "J10",
+            "hearts": "A87432",
+            "diamonds": "K4",
+            "clubs": "AKJ"
+        },
+        "options": [
+            "1♥",
+            "1NT",
+            "2♥",
+            "3♥"
+        ],
+        "correct_answer": "1♥",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-17-atak",
+        "date": "2026-04-17",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Kırık sekanstan NT'ye sıklıkla atak edilir. Yine sıralının büyüğünü atak ederiz.",
+        "explanation_en": "We can lead our longest suit against NT. Hight of the sequence (touching honors)",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♥"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "1♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "654",
+            "hearts": "J6",
+            "diamonds": "764",
+            "clubs": "AQJ65"
+        },
+        "options": [
+            "♠4",
+            "♥J",
+            "♦7",
+            "♣Q"
+        ],
+        "correct_answer": "♣Q",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-18-konusma",
+        "date": "2026-04-18",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "56. Avrupa Takım Şampiyonasından bir el. Zayıf açış 5-10 kart ve 6 kart gösterir. ",
+        "explanation_en": "Hand from 56th European Team Championships. Weak 2 shows 6 cards and 5-10 pts.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "K107532",
+            "hearts": "42",
+            "diamonds": "10",
+            "clubs": "AJ109"
+        },
+        "options": [
+            "P",
+            "1♠",
+            "2♠",
+            "3♠"
+        ],
+        "correct_answer": "2♠",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-19-atak",
+        "date": "2026-04-19",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "NT'ye uzun rengimizi atak ederiz.",
+        "explanation_en": "WE lead our longest suit to NT contracts.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "106532",
+            "hearts": "K85",
+            "diamonds": "K106",
+            "clubs": "95"
+        },
+        "options": [
+            "♠3",
+            "♥5",
+            "♥6",
+            "♣9"
+        ],
+        "correct_answer": "♠3",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-20-konusma",
+        "date": "2026-04-20",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Basit tutuş. 5-10 puan ve 3kart fit (destek) gösterir.",
+        "explanation_en": "Simple raise. 5-10 pts with 3card fit (support).",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A65",
+            "hearts": "Q54",
+            "diamonds": "Q7654",
+            "clubs": "64"
+        },
+        "options": [
+            "P",
+            "1NT",
+            "2♦",
+            "2♠"
+        
+        ],
+        "correct_answer": "2♠",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-21-atak",
+        "date": "2026-04-21",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Karo rakibin rengi olduğundan başka bir renk çıkarız. Kupa ya da sinek mantıklı atak olacaktır.",
+        "explanation_en": "Since opponents shows diamonds we can lead from either heart or club.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "W",
+                "call": "1♦"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "4♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "A65",
+            "hearts": "765",
+            "diamonds": "QJ65",
+            "clubs": "K54"
+        },
+        "options": [
+            "♠5",
+            "♥5",
+            "♦Q",
+            "♣4"
+        ],
+        "correct_answer": "♥5",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-22-konusma",
+        "date": "2026-04-22",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Cevapçının 1NT cevabı ortalamadan az puan gösterir. 2karo cevap 5kart ve en az açar puan (12) gösterir.\nToplam puan:40\nOrtalama puan:10-11",
+        "explanation_en": "Responders 1NT shows lower than average points. 2d response shows at least 5card and opening values (12).\nTotal pts: 40\nAve pts:10-11",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A5",
+            "hearts": "762",
+            "diamonds": "KJ10652",
+            "clubs": "54"
+        },
+        "options": [
+            "P",
+            "1NT",
+            "2♦",
+            "2♠"
+        ],
+        "correct_answer": "1NT",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-23-atak",
+        "date": "2026-04-23",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Konuşulmayan renklerden atak etmek mantıklıdır. Sinek atağı löve kaybına neden olabilir.",
+        "explanation_en": "Leading from unbid suits is reasonable. Club lead may cost a trick.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♦"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "2♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "4♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "2",
+            "hearts": "765",
+            "diamonds": "AQ1042",
+            "clubs": "KJ87"
+        },
+        "options": [
+            "♠2",
+            "♥5",
+            "♦A",
+            "♣7"
+        ],
+        "correct_answer": "♥5",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-24-konusma",
+        "date": "2026-04-24",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Cevapçı, Ortalama puan ile ortağını davet eder.\nToplam puan: 40\nOrtalama puan: 10-11\n*Ortakla anlaşmaya bağlı olarak 1Majör-3Majörü 4lü fit 5-6 puan oynayabilirsiniz. ",
+        "explanation_en": "Responder invites with average pts.\nTotal pts: 40\nAve pts: 10-11\nYou can play 3♥ as an preemptive bid if you agree with your partner.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♥"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A654",
+            "hearts": "Q76",
+            "diamonds": "KJ65",
+            "clubs": "87"
+        },
+        "options": [
+            "P",
+            "1♠",
+            "2♥",
+            "3♥"
+        ],
+        "correct_answer": "3♥",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-25-atak",
+        "date": "2026-04-25",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Sıralının büyüğünü çıkarız. Karo da çıkılabilir fakat kaliteliyi çıkmak daha iyi olabilir.",
+        "explanation_en": "We lead high of the sequence. ♦K also can be led but spade suit is stronger than diamond.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♥"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♥"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "KQ5",
+            "hearts": "Q76",
+            "diamonds": "QJ6",
+            "clubs": "J765"
+        },
+        "options": [
+            "♠K",
+            "♥6",
+            "♦Q",
+            "♣5"
+        ],
+        "correct_answer": "♠K",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-26-konusma",
+        "date": "2026-04-26",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "4 seviyesinde açış 5-10 puan ve 8 kart gösterir.",
+        "explanation_en": "4 lvl openings show 8 card and 5-10 pts.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "62",
+            "hearts": "Q10975432",
+            "diamonds": "A7",
+            "clubs": "5"
+        },
+        "options": [
+            "P",
+            "2♥",
+            "3♥",
+            "4♥"
+        ],
+        "correct_answer": "4♥",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-27-atak",
+        "date": "2026-04-27",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Konuşulmayan renklerden uzunu çıkmak mantıklı.",
+        "explanation_en": "Leading our longest suit from unbid suits is logical.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♥"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "2NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "QJ65",
+            "hearts": "K654",
+            "diamonds": "J76",
+            "clubs": "53"
+        },
+        "options": [
+            "♠Q",
+            "♥4",
+            "♦6",
+            "♣5"
+        ],
+        "correct_answer": "♦6",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-28-konusma",
+        "date": "2026-04-28",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Cevapçı dengesiz elle NT diyebilir. 2kupa konuşması 5kart ve en az 12 puan gösterir.",
+        "explanation_en": "Responder can bid NT with an unbalanced hand. 2♥ shows at least 5card and at least 12 pts.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "5",
+            "hearts": "KJ654",
+            "diamonds": "KJ76",
+            "clubs": "953"
+        },
+        "options": [
+            "P",
+            "1NT",
+            "2♥",
+            "2♠"
+        ],
+        "correct_answer": "1NT",
+        "is_premium": true
+    },
+    {
+        "id": "2026-04-29-atak",
+        "date": "2026-04-29",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "NT'ye en uzun rengimizi çıkabiliriz.",
+        "explanation_en": "We can lead our longest suit against NT.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "Q8652",
+            "hearts": "A7",
+            "diamonds": "QJ65",
+            "clubs": "J10"
+        },
+        "options": [
+            "♠5",
+            "♥A",
+            "♦Q",
+            "♣J"
+        ],
+        "correct_answer": "♠5",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-01-atak",
+        "date": "2026-05-01",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Sıralımız yok. Boş rengimizden çıkabiliriz. NT oynansaydı karo atağı mantıklı olurdu.",
+        "explanation_en": "Since we don't have sequence we lead from weakest suit. If we played NT we would lead ♦Q",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "J65",
+            "hearts": "K5",
+            "diamonds": "AQJ82",
+            "clubs": "974"
+        },
+        "options": [
+            "♠5",
+            "♥K",
+            "♦Q",
+            "♣4"
+        ],
+        "correct_answer": "♣4",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-02-konusma",
+        "date": "2026-05-02",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "1 seviyesinde cevap vermek için en az 4 kart en az 5 puan gerekir. Her iki majörde dörder adet varken önce kupayı söyleriz ki ortakta kupa yoksa 1 seviyesinde maçayı söyleyebilsin.",
+        "explanation_en": "To respond at 1 level at least 4card and 5points are needed. If both majors are 4 cards first bid heart so that partner can bid 1spade over 1heart if partner doesn't have heart fit.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♦"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "K865",
+            "hearts": "J653",
+            "diamonds": "AJ86",
+            "clubs": "4"
+        },
+        "options": [
+            "1♥",
+            "1♠",
+            "1NT",
+            "2♦"
+        ],
+        "correct_answer": "1♥",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-03-atak",
+        "date": "2026-05-03",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Normalde karo rengini sıralının büyüğü olarak atak ederiz fakat konuşmalarda rakipte uzun karo olduğu için tercihimiz konuşulmayan renklerden olmalı. Sinekle başlamak löve kaybettirebileceği için maça daha mantıklı atak.",
+        "explanation_en": "Normally we lead diamond. From the bidding we know opponents has long diamonds so better to lead unbid suits. Leading from Ace of clubs would cost a trick so better to lead spade.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♥"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♦"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "2♥"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "4♥"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "K865",
+            "hearts": "J65",
+            "diamonds": "QJ6",
+            "clubs": "A54"
+        },
+        "options": [
+            "♠6",
+            "♥5",
+            "♦Q",
+            "♣A"
+        ],
+        "correct_answer": "♠6",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-04-konusma",
+        "date": "2026-05-04",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Öncelik majör fiti bulmak olduğu için maça deriz. \n1 seviyeside cevap vermek en 4 kart ve 5 puan gösterir.",
+        "explanation_en": "1 level response shows at least 4 card and 5 pts.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♦"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "J654",
+            "hearts": "KQJ",
+            "diamonds": "KJ6",
+            "clubs": "A54"
+        },
+        "options": [
+            "1♠",
+            "1NT",
+            "2NT",
+            "3NT"
+        ],
+        "correct_answer": "1♠",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-05-atak",
+        "date": "2026-05-05",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Boş olan renkten çıkmak en doğrusu. NT oynansaydı uzun rengimizi çıkardık. Kupa atağı löve kaybettirebilir.",
+        "explanation_en": "If we played NT we would led heart. Now best option is leading from weakest suit not to jeopardize our heart or club trick.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "4♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "J6",
+            "hearts": "K7654",
+            "diamonds": "863",
+            "clubs": "A96"
+        },
+        "options": [
+            "♠6",
+            "♥4",
+            "♦3",
+            "♣A"
+        ],
+        "correct_answer": "♦3",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-06-konusma",
+        "date": "2026-05-06",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "ikinci rengi okumak en az 4 kart gösterir.",
+        "explanation_en": "Bidding our second suit shows at least 4 card.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♠"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "K7654",
+            "hearts": "K654",
+            "diamonds": "AQ5",
+            "clubs": "6"
+        },
+        "options": [
+            "P",
+            "2♦",
+            "2♥",
+            "2♠"
+        ],
+        "correct_answer": "2♥",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-07-atak",
+        "date": "2026-05-07",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Rakipler majör renklerle ilgilenmedi. En uzun rengimizi atak etmektense majör atak etmek daha mantıklı.",
+        "explanation_en": "Since opponents had no interest in majors we can lead a major suit instead our longest suit.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "K76",
+            "hearts": "A54",
+            "diamonds": "QJ52",
+            "clubs": "J63"
+        },
+        "options": [
+            "♠6",
+            "♥4",
+            "♦Q",
+            "♣J"
+        ],
+        "correct_answer": "♠6",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-08-konusma",
+        "date": "2026-05-08",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Dengeli elimiz olduğu için 1NT'yi tercih ederiz. 12-13-14 puan gösterir.",
+        "explanation_en": "1NT rebid shows 12-13-14 pts without 4card ♠",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♦"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A76",
+            "hearts": "A4",
+            "diamonds": "QJ542",
+            "clubs": "J63"
+        },
+        "options": [
+            "P",
+            "1NT",
+            "2♦",
+            "2♠"
+        ],
+        "correct_answer": "1NT",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-09-atak",
+        "date": "2026-05-09",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Konuşulmayan renklerden atak ederiz. As olan rengi saklayıp onla el tutmayı beklemek daha mantıklı.",
+        "explanation_en": "We lead from unbid suits. Keep Ace to get the hand to take established tricks. ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♥"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "2♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3♥"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "3NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "J76",
+            "hearts": "K4",
+            "diamonds": "Q543",
+            "clubs": "A632"
+        },
+        "options": [
+            "♦3",
+            "♦Q",
+            "♣A",
+            "♣2"
+        ],
+        "correct_answer": "♦3",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-10-konusma",
+        "date": "2026-05-10",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "2♥ 4konuşması 5li karo ve 4lü kupa ve en az 18 civarı puan göstereceğinden 2 kupa diyemeyiz. Pas da geçemeyiz, ortakta kaç puan olduğunu bilmiyoruz. Ortak limite olmadı.",
+        "explanation_en": "2♥ bid shows 5-4 distribution and at least 18 pts. We can't pass because partner is not limited. So 1NT is the suitable bid.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♦"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A7",
+            "hearts": "K843",
+            "diamonds": "Q10854",
+            "clubs": "A2"
+        },
+        "options": [
+            "P",
+            "1NT",
+            "2♦",
+            "2♥"
+        ],
+        "correct_answer": "1NT",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-11-atak",
+        "date": "2026-05-11",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Uzun rengimizi çıkarız fakat As değil de neden ufak?\nKupa rengine başka geçiş olmadığı için ilk başta 1 tane verip kalanları almaya çalışmak daha mantıklı. Ortak el tutarsa elindeki kupaları bitirmemiş oluruz, ufak çıkarak.\n",
+        "explanation_en": "We lead longest suit but why not the A?\nSince we don't have a direct entry we give away a trick from heart. Than hope partner gets the hand to play a heart back.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "742",
+            "hearts": "AK843",
+            "diamonds": "854",
+            "clubs": "J2"
+        },
+        "options": [
+            "♦5",
+            "♥A",
+            "♥4",
+            "♠7"
+        ],
+        "correct_answer": "♥4",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-12-konusma",
+        "date": "2026-05-12",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "1seviyesindeki açışa 1 seviyesinde cevaptan sonraki 2NT konuşması 18-19 puan ve dengeli el gösterir.",
+        "explanation_en": "After opening at 1 level and rebid 2NT shows 18-19 balanced had.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♦"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "K5",
+            "hearts": "AK83",
+            "diamonds": "A854",
+            "clubs": "AJ2"
+        },
+        "options": [
+            "2♥",
+            "2NT",
+            "3♦",
+            "3NT"
+        ],
+        "correct_answer": "2NT",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-13-atak",
+        "date": "2026-05-13",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Konuşmalara göre rakiplerde 8-9 kart karo var. Ortakta karo tek! Karo astan sonra karo oynayarak ortağa çaktırabiliriz.",
+        "explanation_en": "According to the bidding partner has singleton in diamond. So after playing ace of diamond we can play another for partner to ruff.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♥"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♦"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "3♦"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "4♥"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "QJ104",
+            "hearts": "843",
+            "diamonds": "A854",
+            "clubs": "K2"
+        },
+        "options": [
+            "♠Q",
+            "♥8",
+            "♦A",
+            "♣K"
+        ],
+        "correct_answer": "♦A",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-14-konusma",
+        "date": "2026-05-14",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "15-16-17 puan ve en az 6 kart kupa gösterir.",
+        "explanation_en": "3♥ shows 15-16-17 pts and at least 6 card.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♥"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "5",
+            "hearts": "AQJ853",
+            "diamonds": "AQ5",
+            "clubs": "K72"
+        },
+        "options": [
+            "1NT",
+            "2♥",
+            "2NT",
+            "3♥"
+        ],
+        "correct_answer": "3♥",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-15-atak",
+        "date": "2026-05-15",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Karo atak edip acele etmemize gerek yok. Konuşulmayan renklerden güvenli olanı çıkabiliriz.",
+        "explanation_en": "No need to hurry to play diamond. We can lead from unbid suits. ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♦"
+            },
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "2♦"
+            },
+            {
+                "seat": "W",
+                "call": "2♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "542",
+            "hearts": "865",
+            "diamonds": "A542",
+            "clubs": "K72"
+        },
+        "options": [
+            "♠2",
+            "♥5",
+            "♦A",
+            "♣2"
+        ],
+        "correct_answer": "♥5",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-16-konusma",
+        "date": "2026-05-16",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "12-14 puan ve 4 kart maça anlatır. Pas geçemeyiz çünkü ortak limite olmadı, yani eli sınırlamadı.",
+        "explanation_en": "12-14 pts with 5 card spades. We can't pass since partner is hasn't limited yet.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♦"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A765",
+            "hearts": "865",
+            "diamonds": "KQ54",
+            "clubs": "K7"
+        },
+        "options": [
+            "P",
+            "1♠",
+            "1NT",
+            "2♠"
+        ],
+        "correct_answer": "2♠",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-17-atak",
+        "date": "2026-05-17",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "1NT kontratlarına atak ederken saldırgan olmamalıyız. Kontrat 3NT olsaydı uzun renklerimizden birini çıkardık (muhtemelen kupa). Şimdi daha güvenli bir renk bulmalıyız.",
+        "explanation_en": "Do not hurry when leading against 1NT if you don't have 5 cards. Underleading from A can cost a trick so better to leas passively. If the contract was 3NT, we could have led heart.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "J104",
+            "hearts": "A654",
+            "diamonds": "KJ65",
+            "clubs": "Q5"
+        },
+        "options": [
+            "♠J",
+            "♥4",
+            "♦5",
+            "♣4"
+        ],
+        "correct_answer": "♠J",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-18-konusma",
+        "date": "2026-05-18",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Reverse konuşması. Önce küçük sonra büyük renk okumak 5-4 dağılım ve 18 civarı puan gösterir.",
+        "explanation_en": "Reverse bid. Bidding lower suit than rebidding higher suit shows at least 5-4 distribution and around 18 points.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♣"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "9",
+            "hearts": "A654",
+            "diamonds": "AKJ65",
+            "clubs": "AQ5"
+        },
+        "options": [
+            "2♥",
+            "2NT",
+            "3♦",
+            "3NT"
+        ],
+        "correct_answer": "2♥",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-19-atak",
+        "date": "2026-05-19",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortağımız rengini çıkabiliriz. Sıra yoksa ufak oynarız.",
+        "explanation_en": "We can lead our partners suit. Small when we don't have sequence.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "2♥"
+            },
+            {
+                "seat": "S",
+                "call": "2♠"
+            },
+            {
+                "seat": "W",
+                "call": "3♥"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "4♥"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "K76",
+            "hearts": "9754",
+            "diamonds": "9765",
+            "clubs": "K5"
+        },
+        "options": [
+            "♠6",
+            "♠K",
+            "♦5",
+            "♣K"
+        ],
+        "correct_answer": "♠6",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-20-konusma",
+        "date": "2026-05-20",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Jump-shift konuşması.\nİkinci rengimizi sıçrayarak okumak en az 4 kart ve en az 18 puan gösterir.",
+        "explanation_en": "Jump-shift. Rebidding our 2nd suit by jumping shows at least 4 card and 18 pts.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♠"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AKJ76",
+            "hearts": "AJ5",
+            "diamonds": "KQJ4",
+            "clubs": "6"
+        },
+        "options": [
+            "2♦",
+            "2NT",
+            "3♦",
+            "3NT"
+        ],
+        "correct_answer": "3♦",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-21-atak",
+        "date": "2026-05-21",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Konuşulmayan renklerden atak etmeye çalışırız. 2 taneden büyüğü çıkarız ki ortağa kart sayısını anlatabilelim.",
+        "explanation_en": "We can lead unbid suits. Lead high from doubleton so that partner can understand our card number.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "W",
+                "call": "1♥"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "4♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "J76",
+            "hearts": "AJ53",
+            "diamonds": "KQ43",
+            "clubs": "76"
+        },
+        "options": [
+            "♠7",
+            "♥A",
+            "♦K",
+            "♣7"
+        ],
+        "correct_answer": "♣7",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-22-konusma",
+        "date": "2026-05-22",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortak 12-14 puan ve dengeli el anlattı. 5minör alternatif zon olmadığından sinekleri karıştırmaya gerek yok. Bu nedenle direkt 3NT doğru cevap.",
+        "explanation_en": "Partner showed a balanced hand with 12-14 pts. 5minor is not an alternative so no need to bid clubs.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♣"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "1♠"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AK65",
+            "hearts": "J5",
+            "diamonds": "J84",
+            "clubs": "KQ74"
+        },
+        "options": [
+            "P",
+            "2NT",
+            "3♣",
+            "3NT"
+        ],
+        "correct_answer": "3NT",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-23-atak",
+        "date": "2026-05-23",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Karo Ası bekletmeliyiz. Koz çıkmamıza gerek yok. Kupa mı sinek mi?\nİkisi de sıralı değil. Fire verme şansımız hangisinde daha az ise o rengi çıkarız. Bu neden kupa çıkmak daha doğru.",
+        "explanation_en": "No rush to lead diamond and no need for a trump lead. Heart or club?\nWhich one is likely to lose a trick. Obviously club! So lead a heart.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "4♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "9",
+            "hearts": "J87653",
+            "diamonds": "A107",
+            "clubs": "Q32"
+        },
+        "options": [
+            "♠9",
+            "♥5",
+            "♦A",
+            "♣2"
+        ],
+        "correct_answer": "♥5",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-24-konusma",
+        "date": "2026-05-24",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Yeni minör konvansiyonu! Ortakta 3 kart maça olabilir. Yapay bir konuşma kullanarak ortağın eli hakkında daha fazla bilgi almalıyız. Bazı oyuncular 2way check back konvansiyonu da oynayabilir (2karo) 2maça dersek limite olmuş oluruz, ortak pas geçer.",
+        "explanation_en": "New minor convention. Partner may have 3 card sp, so we use artificial bid to learn more from partners hand. Some players use 2way checkbook convention (2♦) 2spades shows long spades but less than 10 pts.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♦"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "1♠"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "KQ975",
+            "hearts": "KJ4",
+            "diamonds": "A107",
+            "clubs": "76"
+        },
+        "options": [
+            "2♣",
+            "2♠",
+            "2NT",
+            "3NT"
+        ],
+        "correct_answer": "2♣",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-25-atak",
+        "date": "2026-05-25",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Konuşulmayan renklerden sıralının büyüğünü çıkmak doğrusu.",
+        "explanation_en": "It is correct to lead high of the sequence from unbid suits. ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♥"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♣"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "2♥"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "4♥"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "KQ32",
+            "hearts": "K53",
+            "diamonds": "J95",
+            "clubs": "654"
+        },
+        "options": [
+            "♠K",
+            "♥3",
+            "♦5",
+            "♣4"
+        ],
+        "correct_answer": "♠K",
+        "is_premium": true
+    },
+    
+    {
+        "id": "2026-05-26-konusma",
+        "date": "2026-05-26",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "2kupa da yanlış değil fakat 2. rengi göstermek daha doğru.",
+        "explanation_en": "2heart rebid also possible but better to bid second suit.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♥"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "8",
+            "hearts": "AQJ754",
+            "diamonds": "K765",
+            "clubs": "Q2"
+        },
+        "options": [
+            "P",
+            "1NT",
+            "2♦",
+            "2♥"
+        ],
+        "correct_answer": "2♦",
+        "is_premium": true
+    },
+    
+    {
+        "id": "2026-05-27-atak",
+        "date": "2026-05-27",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Sıralının büyüğünü çıkarız. Karo kısa olduğu için belki çakarız.",
+        "explanation_en": "High of the sequence. May be we have a ruff.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "1NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "2♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "Q98",
+            "hearts": "A62",
+            "diamonds": "J10",
+            "clubs": "J10842"
+        },
+        "options": [
+            "♠8",
+            "♥A",
+            "♦J",
+            "♣J"
+        ],
+        "correct_answer": "♦J",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-28-konusma",
+        "date": "2026-05-28",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "2sinek konuşması 5li karo 4lü sinek gösterir. 1NT ile limite oluruz. 12-14 puan ve dengeli el.",
+        "explanation_en": "2♣ shows at least 5card ♦ and 5card ♣ so we can limit our hand with 1NT which shows 12-14 balanced hand.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♦"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1♥"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "KJ",
+            "hearts": "874",
+            "diamonds": "KQ93",
+            "clubs": "K765"
+        },
+        "options": [
+            "P",
+            "1NT",
+            "2♣",
+            "2♥"
+        ],
+        "correct_answer": "1NT",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-29-atak",
+        "date": "2026-05-29",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Rakibin rengi olsa da tekimizi çıkmak doğru.",
+        "explanation_en": "Although it is opponents suit it is correct to lead our singleton.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "W",
+                "call": "1♦"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "1NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "3♦"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "4♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "K62",
+            "hearts": "Q765",
+            "diamonds": "8",
+            "clubs": "J10543"
+        },
+        "options": [
+            "♠2",
+            "♥5",
+            "♦8",
+            "♣J"
+        ],
+        "correct_answer": "♦8",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-30-konusma",
+        "date": "2026-05-30",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Gambling konuşması!\nEn az 4lü fit, dengesiz el ve 10'dan az puan gösterir. Amaç kontratı gerçekleştirmektense rakibe baraj yapmak yani rakibe engel olmaktır.",
+        "explanation_en": "Gambling bid!\nAt least 4card fit, unbalanced hand and less than 10pts. Goal is to preempt rather than making the contract.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "K6532",
+            "hearts": "Q75",
+            "diamonds": "J875",
+            "clubs": "5"
+        },
+        "options": [
+            "P",
+            "2♠",
+            "3♠",
+            "4♠"
+        ],
+        "correct_answer": "4♠",
+        "is_premium": true
+    },
+    {
+        "id": "2026-05-31-atak",
+        "date": "2026-05-31",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Sinek için acele etmemeliyiz. Rakip sadece 1NT oynuyor. Daha pek çok kez el tutacağız.",
+        "explanation_en": "No rush for club lead. We are just playing 1NT which means we will get the hand sooner or later.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "W",
+                "call": "1♦"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "QJ2",
+            "hearts": "K54",
+            "diamonds": "985",
+            "clubs": "AJ105"
+        },
+        "options": [
+            "♠Q",
+            "♥4",
+            "♦5",
+            "♣J"
+        ],
+        "correct_answer": "♠Q",
+        "is_premium": true
+    },
+    {
+        "id": "2026-06-01-konusma",
+        "date": "2026-06-01",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "4lü fit 8-9 puanla davet etmeliyiz. 9 onör puanımız var fakat dağılım puanımız daha fazla. 4. maça ve doubleton karoya da puan verebiliriz.",
+        "explanation_en": "Invite with 4card fit and 8-9 pts. We have 9 HCP but Total Points (TP) is more 9 because of 4th spade and double diamond. ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "K1094",
+            "hearts": "Q653",
+            "diamonds": "87",
+            "clubs": "A105"
+        },
+        "options": [
+            "1NT",
+            "2♠",
+            "3♠",
+            "4♠"
+        ],
+        "correct_answer": "3♠",
+        "is_premium": true
+    },
+    {
+        "id": "2026-06-02-atak",
+        "date": "2026-06-02",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Rakipler majör renklerle ilgilenmediğinden majör çıkmak daha doğru.",
+        "explanation_en": "Since opponents didn't have interest in majors it is correct to lead spades.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "Q1075",
+            "hearts": "107",
+            "diamonds": "Q8764",
+            "clubs": "95"
+        },
+        "options": [
+            "♠5",
+            "♥10",
+            "♦4",
+            "♣9"
+        ],
+        "correct_answer": "♠5",
+        "is_premium": true
+    },
+    {
+        "id": "2026-06-03-konusma",
+        "date": "2026-06-03",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Zon kesin. Direkt fit vererek elimizi anlatamayız. Önce yeni renk başlayarak en az 12 puanımızı anlatmalı sıra gelince fit vermeliyiz.",
+        "explanation_en": "We have game but if we give fit directly we can't show our strength. We should start with 2diamons showing at least 12 points and then we will give fit. ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♥"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "K75",
+            "hearts": "A65",
+            "diamonds": "KJ764",
+            "clubs": "A5"
+        },
+        "options": [
+            "1NT",
+            "2♦",
+            "3♥",
+            "4♥"
+        ],
+        "correct_answer": "2♦",
+        "is_premium": true
+    },
+    {
+        "id": "2026-06-04-atak",
+        "date": "2026-06-04",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Uzun rengimizi çıkabiliriz. Karoda kırık sekans var ve sıralının büyüğü yani 10'luyu atak ederiz.",
+        "explanation_en": "We can lead our longest suit. There is a broken sequence in diamond and we can lead high of the sequence, 10 of ♦ ",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "AJ2",
+            "hearts": "Q96",
+            "diamonds": "K1092",
+            "clubs": "1054"
+        },
+        "options": [
+            "♠2",
+            "♥6",
+            "♦10",
+            "♣5"
+        ],
+        "correct_answer": "♦10",
+        "is_premium": true
+    },
+    {
+        "id": "2026-06-05-konusma",
+        "date": "2026-06-05",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Splinter konuşması. 10-12 puan, 4-5 kart fit ve 0-1 adet renk gösterir.\n1kupaya 3♠ maça tek splinter, 4♣ sinek tek splinter olarak oynanır.",
+        "explanation_en": "Splinter bid. 10-12 pts, 4-5 card fit, 0-1 card in bid suit.\n3♠ over 1♥ is a splinter bid.\n4♣ over 1♥ is also a splinter bid.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♥"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AK98",
+            "hearts": "Q963",
+            "diamonds": "5",
+            "clubs": "Q543"
+        },
+        "options": [
+            "2♠",
+            "3♠",
+            "4♦",
+            "4♠"
+        ],
+        "correct_answer": "4♦",
+        "is_premium": true
+    },
+    {
+        "id": "2026-06-06-atak",
+        "date": "2026-06-06",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Sinek atağı da bir seçenek fakat riske girmeye gerek yok. ",
+        "explanation_en": "Club lead is also an alternative but no need to take a risk.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♣"
+            },
+            {
+                "seat": "E",
+                "call": "2♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "73",
+            "hearts": "763",
+            "diamonds": "K7642",
+            "clubs": "K54"
+        },
+        "options": [
+            "♠7",
+            "♥3",
+            "♦4",
+            "♣4"
+        ],
+        "correct_answer": "♥3",
+        "is_premium": true
+    },
+    {
+        "id": "2026-06-07-konusma",
+        "date": "2026-06-07",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortakta zayıf el var. 5-10 puan. Zon ihtimali pek olmadığından pas.",
+        "explanation_en": "Partner has weak Hans. 5-10 pts. No game is possible so pass.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "2♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "7",
+            "hearts": "AK543",
+            "diamonds": "K764",
+            "clubs": "Q54"
+        },
+        "options": [
+            "P",
+            "2NT",
+            "3♥",
+            "3NT"
+        ],
+        "correct_answer": "P",
+        "is_premium": true
+    },
+    {
+        "id": "2026-06-08-atak",
+        "date": "2026-06-08",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "NT oynamadığımız için kuvvetli rengimizi çıkmamıza gerek yok. Löve kaybetmeyeceğim bir renkten atak etmek daha doğru.",
+        "explanation_en": "Since we are not playing NT no need to lead our strongest suit. It is correct to lead not to give away a trick.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♣"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "2♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "4♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "A43",
+            "hearts": "987",
+            "diamonds": "K963",
+            "clubs": "J32"
+        },
+        "options": [
+            "♠3",
+            "♥7",
+            "♦6",
+            "♣2"
+        ],
+        "correct_answer": "♥7",
+        "is_premium": true
+    },
+    {
+        "id": "2026-06-09-konusma",
+        "date": "2026-06-09",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Zon kesin. Direkt zon demektense ortağın eli hakkında daha fazla bilgi öğrenmeye çalışırız. 5li olmamasına rağmen 2sinek deriz. 1Majöre 2 sinek konuşma 5 kart gerektirmez.",
+        "explanation_en": "We have game. Instead of bidding game we try to learn much from partners hand. Although it is not 5 card we bid 2clubs showing at least 12 points. 2♣ over 1Major may not be 5 card.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A4",
+            "hearts": "K987",
+            "diamonds": "K963",
+            "clubs": "KJ3"
+        },
+        "options": [
+            "1NT",
+            "2♣",
+            "2♦",
+            "2NT"
+        ],
+        "correct_answer": "2♣",
+        "is_premium": true
+    },
+    {
+      "id": "2026-06-10-atak",
+      "date": "2026-06-10",
+      "type": "atak",
+      "title_tr": "Günün Sorusu",
+      "title_en": "Daily Question",
+      "explanation_tr": "Rakip majör renkle ilgilenmediğinden Majör renk çıkmak daha doğru.",
+      "explanation_en": "Since the opponent isn't interested in the major suit, it's more logical to lead the major suit.",
+      "player_seat": "S",
+      "player_name": "South",
+      "bidding": [
+        {
+          "seat": "E",
+          "call": "1NT"
+        },
+        {
+          "seat": "S",
+          "call": "P"
+        },
+        {
+          "seat": "W",
+          "call": "3NT"
+        },
+        {
+          "seat": "N",
+          "call": "P"
+        },
+        {
+          "seat": "E",
+          "call": "P"
+        },
+        {
+          "seat": "S",
+          "call": "P"
+        }
+      ],
+      "hand": {
+        "spades": "J5",
+        "hearts": "K765",
+        "diamonds": "108",
+        "clubs": "J7654"
+      },
+      "options": [
+        "♠J",
+        "♥5",
+        "♦8",
+        "♣4"
+      ],
+      "correct_answer": "♥5",
+      "is_premium": true
+    },
+    {
+      "id": "2026-06-11-konusma",
+      "date": "2026-06-11",
+      "type": "konusma",
+      "title_tr": "Günün Sorusu",
+      "title_en": "Daily Question",
+      "explanation_tr": "Stayman konvansiyonu. 4lü majör sorusu. En az 8 puan gereklidir.",
+      "explanation_en": "Stayman Convention. A question about four card majors. A minimum of 8 points is required.\n",
+      "player_seat": "S",
+      "player_name": "South",
+      "bidding": [
+          {
+              "seat": "N",
+              "call": "1NT"
+          },
+          {
+              "seat": "E",
+              "call": "P"
+          },
+          {
+                  "seat": "S",
+                  "call": "?"
+                  
+              }
+        ],
+              "hand": {
+                  "spades": "AJ4",
+                  "hearts": "KQ65",
+                  "diamonds": "108",
+                  "clubs": "7654"
+              },
+              "options": [
+                  "2♣",
+                  "2♥",
+                  "2NT",
+                  "3NT"
+              ],
+              "correct_answer": "2♣",
+              "is_premium": true
+          },
+          {
+              "id": "2026-06-12-atak",
+              "date": "2026-06-12",
+              "type": "atak",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "Kaliteli majör renkten atak etmek daha doğrudur.",
+              "explanation_en": "It's more prudent to lead the better major suit.",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "E",
+                      "call": "1NT"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "W",
+                      "call": "3NT"
+                  },
+                  {
+                      "seat": "N",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  }
+              ],
+              "hand": {
+                  "spades": "QJ85",
+                  "hearts": "J1072",
+                  "diamonds": "1072",
+                  "clubs": "K3"
+              },
+              "options": [
+                  "♠Q",
+                  "♥J",
+                  "♦2",
+                  "♣K"
+              ],
+              "correct_answer": "♠Q",
+              "is_premium": true
+          },
+          {
+              "id": "2026-06-13-konusma",
+              "date": "2026-06-13",
+              "type": "konusma",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "Jacoby transfer. Ortak NT açtıktan sonra majör rengi anlatmak için kullanılır. 2 kupa konuşması maçaya, 2karo kupaya transferdir.",
+              "explanation_en": "We use Jacoby Transfer against NT openings.2 hearts bid is transfer to spades, and a bid of 2 diamonds is a transfer to hearts.",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "N",
+                      "call": "1NT"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "?"
+                  }
+              ],
+              "hand": {
+                  "spades": "KJ654",
+                  "hearts": "J72",
+                  "diamonds": "1072",
+                  "clubs": "87"
+              },
+              "options": [
+                  "P",
+                  "2♥",
+                  "2♠",
+                  "2NT"
+              ],
+              "correct_answer": "2♥",
+              "is_premium": true
+          },
+          {
+              "id": "2026-06-14-atak",
+              "date": "2026-06-14",
+              "type": "atak",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "Rakip stayman yaptı. Konuşmalara göre deklaranda 4'lü maça, yerde 4'lü kupa var. Bu renkler dışında bir renk seçmeliyiz.",
+              "explanation_en": "Opponent bid stayman. Declarer has spade and dummy has heart. So we should choose a suit from minors.",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "E",
+                      "call": "1NT"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "W",
+                      "call": "2♣"
+                  },
+                  {
+                      "seat": "N",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "2♠"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "W",
+                      "call": "3NT"
+                  },
+                  {
+                      "seat": "N",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  }
+              ],
+              "hand": {
+                  "spades": "AJ654",
+                  "hearts": "J65",
+                  "diamonds": "1072",
+                  "clubs": "87"
+              },
+              "options": [
+                  "♠5",
+                  "♥6",
+                  "♦2",
+                  "♣8"
+              ],
+              "correct_answer": "♦2",
+              "is_premium": true
+          },
+          {
+              "id": "2026-06-15-konusma",
+              "date": "2026-06-15",
+              "type": "konusma",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "Ortak stayman yaptı. Majörümüzü söyleriz.",
+              "explanation_en": "Partner bid stayman so we bid our major.",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "S",
+                      "call": "1NT"
+                  },
+                  {
+                      "seat": "W",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "N",
+                      "call": "2♣"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "?"
+                  }
+              ],
+              "hand": {
+                  "spades": "KQJ5",
+                  "hearts": "AK5",
+                  "diamonds": "K65",
+                  "clubs": "543"
+              },
+              "options": [
+                  "2♥",
+                  "2♠",
+                  "2NT",
+                  "3NT"
+              ],
+              "correct_answer": "2♠",
+              "is_premium": true
+          },
+          {
+              "id": "2026-06-16-atak",
+              "date": "2026-06-16",
+              "type": "atak",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "Yerde 5li maça olduğundan maça rengini eleriz. Kalan renklerden uzun olanı atak edebiliriz. ",
+              "explanation_en": "Dummy has 5 card spades so we omit spade lead.",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "E",
+                      "call": "1NT"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "W",
+                      "call": "2♥"
+                  },
+                  {
+                      "seat": "N",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "2♠"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "W",
+                      "call": "3NT"
+                  },
+                  {
+                      "seat": "N",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  }
+              ],
+              "hand": {
+                  "spades": "QJ105",
+                  "hearts": "K654",
+                  "diamonds": "65",
+                  "clubs": "A43"
+              },
+              "options": [
+                  "♠Q",
+                  "♥4",
+                  "♦6",
+                  "♣3"
+              ],
+              "correct_answer": "♥4",
+              "is_premium": true
+          },
+          {
+              "id": "2026-06-17-konusma",
+              "date": "2026-06-17",
+              "type": "konusma",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "Ortak NT(15-17) açtında 8-9 puan ile zona davet ederiz.",
+              "explanation_en": "We invite with 8-9 pts when partner opens NT(15-17)",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "N",
+                      "call": "1NT"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "?"
+                  }
+              ],
+              "hand": {
+                  "spades": "54",
+                  "hearts": "A75",
+                  "diamonds": "KQ86",
+                  "clubs": "9853"
+              },
+              "options": [
+                  "P",
+                  "2♦",
+                  "2NT",
+                  "3NT"
+              ],
+              "correct_answer": "2NT",
+              "is_premium": true
+          },
+          {
+              "id": "2026-06-18-atak",
+              "date": "2026-06-18",
+              "type": "atak",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "Her ne kadar maçamız uzun olsa da öncelik Ası çekmek olmalı. Ortakta sadece Q ya da J olup 4-5 adet alabiliriz.",
+              "explanation_en": "Even though we have a long ♠ , the priority should be playing the Ace. With only the Q or J in the partner's hand, we can take 4-5 ♥ tricks.",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "E",
+                      "call": "1NT"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "W",
+                      "call": "3NT"
+                  },
+                  {
+                      "seat": "N",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  }
+              ],
+              "hand": {
+                  "spades": "Q8654",
+                  "hearts": "AK5",
+                  "diamonds": "76",
+                  "clubs": "J109"
+              },
+              "options": [
+                  "♠5",
+                  "♥A",
+                  "♦7",
+                  "♣J"
+              ],
+              "correct_answer": "♥A",
+              "is_premium": true
+          },
+          {
+              "id": "2026-06-19-konusma",
+              "date": "2026-06-19",
+              "type": "konusma",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "Ortak NT(15-17) açtıktan sonra 10 ve daha fazla puan ile zon deriz.",
+              "explanation_en": "After partner's opening NT(15-17), we bid Game with 10 or more points.",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "N",
+                      "call": "1NT"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "P"
+                  }
+              ],
+              "hand": {
+                  "spades": "Q8",
+                  "hearts": "K54",
+                  "diamonds": "763",
+                  "clubs": "KQ765"
+              },
+              "options": [
+                  "P",
+                  "2♣",
+                  "2NT",
+                  "3NT"
+              ],
+              "correct_answer": "3NT",
+              "is_premium": true
+          },
+          {
+              "id": "2026-06-20-atak",
+              "date": "2026-06-20",
+              "type": "atak",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "56. Avrupa Takım Şampiyonasından bir el.\nRakip majörlerle ilgilenmediği için majör atak ederiz. Konuşmalara göre rakiplerin minör renkleri uzun olduğu için karo ile başlamıyoruz.",
+              "explanation_en": "A hand from 56th European Team Championship.\nSince our opponent isn't interested in the majors, we'll lead our longest major suit. According to the bidding opponents have long minor suits that's why we don't lead ♦A.",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "E",
+                      "call": "1NT"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "W",
+                      "call": "3NT"
+                  },
+                  {
+                      "seat": "N",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  }
+              ],
+              "hand": {
+                  "spades": "108",
+                  "hearts": "K843",
+                  "diamonds": "AK4",
+                  "clubs": "Q832"
+              },
+              "options": [
+                  "♠10",
+                  "♥3",
+                  "♦A",
+                  "♣2"
+              ],
+              "correct_answer": "♥3",
+              "is_premium": true
+          },
+          {
+              "id": "2026-06-21-konusma",
+              "date": "2026-06-21",
+              "type": "konusma",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "Majör fitini bulmak için önce Stayman.",
+              "explanation_en": "To find major fit first bid Stayman.",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "N",
+                      "call": "1NT"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "?"
+                  }
+              ],
+              "hand": {
+                  "spades": "1084",
+                  "hearts": "Q543",
+                  "diamonds": "AQJ4",
+                  "clubs": "43"
+              },
+              "options": [
+                  "2♣",
+                  "2♥",
+                  "2NT",
+                  "3NT"
+              ],
+              "correct_answer": "2♣",
+              "is_premium": true
+          },
+          {
+              "id": "2026-06-22-atak",
+              "date": "2026-06-22",
+              "type": "atak",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "Kırık sekansımız var. Sıranın büyüğü yani J yi atak ederiz.",
+              "explanation_en": "We have broken sequence. We lead high of the touching honors, J here",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "E",
+                      "call": "1NT"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "W",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "N",
+                      "call": "P"
+                  }
+              ],
+              "hand": {
+                  "spades": "K103",
+                  "hearts": "AJ1094",
+                  "diamonds": "Q65",
+                  "clubs": "103"
+              },
+              "options": [
+                  "♥4",
+                  "♥10",
+                  "♥J",
+                  "♥A"
+              ],
+              "correct_answer": "♥J",
+              "is_premium": true
+          },
+          {
+              "id": "2026-06-23-konusma",
+              "date": "2026-06-23",
+              "type": "konusma",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "9 onör puanımız var fakat uzunluk puanı eklediğimizde 11 puanımız olur. (5. ve 6. karoya 1 er uzunluk puanı verdik)",
+              "explanation_en": "We have 9 honor points, but adding length points gives us 11 points. (We gave 1 length point each to the 5th and 6th ♦)",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "N",
+                      "call": "1NT"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "?"
+                  }
+              ],
+              "hand": {
+                  "spades": "K10",
+                  "hearts": "J96",
+                  "diamonds": "KQ8765",
+                  "clubs": "103"
+              },
+              "options": [
+                  "P",
+                  "2♦",
+                  "2NT",
+                  "3NT"
+              ],
+              "correct_answer": "3NT",
+              "is_premium": true
+          }
+          ,
+          {
+              "id": "2026-06-24-atak",
+              "date": "2026-06-24",
+              "type": "atak",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "Zor bir el! Fire vermeden atak etmek zor. En uygunu karo gibi. \nKozdan atak edersek fire verebiliriz. Sinek de öyle. Maça mı? karo mu? Maçadan löve kaybedersek geri dönüşü olmayabilir bu yüzden karo atak edilebilir.",
+              "explanation_en": "A tough hand! It's difficult to attack without sacrificing. Diamonds seem like the best option.\nIf we lead trumps, we can lose trick. The same goes for clubs. Spades or diamonds? If we lose a trick with spades, there might be no way to recover, so ♦ lead seems best.",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "E",
+                      "call": "1♥"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "W",
+                      "call": "2♥"
+                  },
+                  {
+                      "seat": "N",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "4♥"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "W",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "N",
+                      "call": "P"
+                  }
+              ],
+              "hand": {
+                  "spades": "KJ53",
+                  "hearts": "J5",
+                  "diamonds": "Q76",
+                  "clubs": "A765"
+              },
+              "options": [
+                  "♠3",
+                  "♥5",
+                  "♦6",
+                  "♣A"
+              ],
+              "correct_answer": "♦6",
+              "is_premium": true
+          },
+          {
+              "id": "2026-06-25-konusma",
+              "date": "2026-06-25",
+              "type": "konusma",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "1 seviyesinde araya giriş 5kart ve 8-16 puan gösterir.",
+              "explanation_en": "1 lvl overcall shows 5c and 8-16 pts.",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "E",
+                      "call": "1♦"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "?"
+                  }
+              ],
+              "hand": {
+                  "spades": "KQ543",
+                  "hearts": "J5",
+                  "diamonds": "654",
+                  "clubs": "A75"
+              },
+              "options": [
+                  "P",
+                  "1♠",
+                  "1NT",
+                  "DBL"
+              ],
+              "correct_answer": "1♠",
+              "is_premium": true
+          },
+          {
+              "id": "2026-06-26-atak",
+              "date": "2026-06-26",
+              "type": "atak",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "NT'ye uzun rengimizi çıkarız fakat burada rakip 1karo açtığı için başka bir renkten atak ederiz.",
+              "explanation_en": "We would play our long suit on NT, but since the opponent opened with 1♦, we would lead another suit.",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "E",
+                      "call": "1♦"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "W",
+                      "call": "1♠"
+                  },
+                  {
+                      "seat": "N",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "1NT"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "W",
+                      "call": "3NT"
+                  },
+                  {
+                      "seat": "N",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "E",
+                      "call": "P"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "P"
+                  }
+              ],
+              "hand": {
+                  "spades": "Q104",
+                  "hearts": "J7",
+                  "diamonds": "AQ654",
+                  "clubs": "J75"
+              },
+              "options": [
+                  "♠Q",
+                  "♥5",
+                  "♦4",
+                  "♣5"
+              ],
+              "correct_answer": "♣5",
+              "is_premium": true
+          },
+          {
+              "id": "2026-06-27-konusma",
+              "date": "2026-06-27",
+              "type": "konusma",
+              "title_tr": "Günün Sorusu",
+              "title_en": "Daily Question",
+              "explanation_tr": "Rakibin oyun açışı dbl en az 12 puan ve rakip renk dışındaki renklere (majörlere) hazır bir dağıl gösterir. ",
+              "explanation_en": "Dbling opponents opening bid shows at least 12 points and shows a distribution for suits (majors) other than the opponent's.",
+              "player_seat": "S",
+              "player_name": "South",
+              "bidding": [
+                  {
+                      "seat": "E",
+                      "call": "1♦"
+                  },
+                  {
+                      "seat": "S",
+                      "call": "?"
+                  }
+              ],
+              "hand": {
+                  "spades": "KQ104",
+                  "hearts": "KJ54",
+                  "diamonds": "K6",
+                  "clubs": "J75"
+              },
+              "options": [
+                  "P",
+                  "1♥",
+                  "1♠",
+                  "DBL"
+              ],
+              "correct_answer": "DBL",
+              "is_premium": true
+          },
+          {
+            "id": "2026-06-28-atak",
+            "date": "2026-06-28",
+            "type": "atak",
+            "title_tr": "Günün Sorusu",
+            "title_en": "Daily Question",
+            "explanation_tr": "Karo rakibin rengi. Konuşulmayan renklerden hangisini çıkacağız? As olan rengi bekleriz maça atağı en doğrusu.",
+            "explanation_en": "We omit ♦ lead since opponent opened it. Which of the unbid suits should we play? We wait for the ace suit; leading spade is the best option.",
+            "player_seat": "S",
+            "player_name": "South",
+            "bidding": [
+              {
+                "seat": "W",
+                "call": "1♦"
+              },
+              {
+                "seat": "N",
+                "call": "P"
+              },
+              {
+                "seat": "E",
+                "call": "1♠"
+              },
+              {
+                "seat": "S",
+                "call": "P"
+              },
+              {
+                "seat": "W",
+                "call": "2♠"
+              },
+              {
+                "seat": "N",
+                "call": "P"
+              },
+              {
+                "seat": "E",
+                "call": "4♠"
+              },
+              {
+                "seat": "S",
+                "call": "P"
+              },
+              {
+                "seat": "W",
+                "call": "P"
+              },
+              {
+                "seat": "N",
+                "call": "P"
+              }
+            ],
+            "hand": {
+              "spades": "K64",
+              "hearts": "K64",
+              "diamonds": "QJ7",
+              "clubs": "A652"
+            },
+            "options": [
+              "♠4",
+              "♥4",
+              "♦Q",
+              "♣A"
+            ],
+            "correct_answer": "♠4",
+            "is_premium": true
+          },
+          {
+            "id": "2026-06-29-konusma",
+            "date": "2026-06-29",
+            "type": "konusma",
+            "title_tr": "Günün Sorusu",
+            "title_en": "Daily Question",
+            "explanation_tr": "1NT araya giriş aynı açıştaki gibi 15-17 ve açar puan ve rakip renkte durdurucu gösterir.",
+            "explanation_en": "1NT overcall shows as 1NT opening, 15-17 & balanced hand with a stopper in opponents suit.",
+            "player_seat": "S",
+            "player_name": "South",
+            "bidding": [
+              {
+                "seat": "E",
+                "call": "1♥"
+              },
+              {
+                "seat": "S",
+                "call": "?"
+              }
+            ],
+            "hand": {
+              "spades": "AK",
+              "hearts": "Q109",
+              "diamonds": "KQ54",
+              "clubs": "Q953"
+            },
+            "options": [
+              "P",
+              "DBL",
+              "1NT",
+              "2♦"
+            ],
+            "correct_answer": "1NT",
+            "is_premium": false
+          },
+          {
+            "id": "2026-06-30-atak",
+            "date": "2026-06-30",
+            "type": "atak",
+            "title_tr": "Günün Sorusu",
+            "title_en": "Daily Question",
+            "explanation_tr": "Koz ve kupayı eleriz. karo mu sinek mi? Kozlu oyunlara sıklıkla 2 boş renkten atak edilir.",
+            "explanation_en": "We eliminate trump and ♥ leads. Diamonds or spades? Against suit contracts leading from two small is often made.",
+            "player_seat": "S",
+            "player_name": "South",
+            "bidding": [
+              {
+                "seat": "E",
+                "call": "1NT"
+              },
+              {
+                "seat": "S",
+                "call": "P"
+              },
+              {
+                "seat": "W",
+                "call": "2♥"
+              },
+              {
+                "seat": "N",
+                "call": "P"
+              },
+              {
+                "seat": "E",
+                "call": "2♠"
+              },
+              {
+                "seat": "S",
+                "call": "P"
+              },
+              {
+                "seat": "W",
+                "call": "P"
+              },
+              {
+                "seat": "N",
+                "call": "P"
+              }
+            ],
+            "hand": {
+              "spades": "A95",
+              "hearts": "Q9542",
+              "diamonds": "643",
+              "clubs": "42"
+            },
+            "options": [
+              "♠A",
+              "♥2",
+              "♦3",
+              "♣4"
+            ],
+            "correct_answer": "♣4",
+            "is_premium": false
+          }
+      ]
