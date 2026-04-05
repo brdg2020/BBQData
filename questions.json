@@ -970,7 +970,12 @@
         "explanation_en": "Strongest opening in Standart American Bidding system is 2♣ opening, shows at least 23 pts.",
         "player_seat": "S",
         "player_name": "South",
-        "bidding": [],
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
         "hand": {
             "spades": "AK52",
             "hearts": "AKQ",
