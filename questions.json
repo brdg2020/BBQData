@@ -2144,6 +2144,45 @@
         "correct_answer": "♠5",
         "is_premium": true
     },
+{
+  "id": "2026-04-30-konusma",
+  "date": "2026-04-30",
+  "type": "konusma",
+  "title_tr": "Günün Sorusu",
+  "title_en": "Daily Question",
+  "explanation_tr": "Rakibi cezanlandırmayı düşünmeliyiz. Bunun için en iyi yol \"ceza pası\" geçmeliyiz. Ortağımız, kısa maçası ile dbl atacaktır. Biz de ortağın dblına pas geçeriz. 3 maçaya DBL ımız ceza değil, \"konuş\" demektir.",
+  "explanation_en": "We should consider punishing our opponent. The best way to do this is to resort to a \"penalty pass.\" Our partner will double with short spade. We then pass to double. A double of 3 spades isn't a penalty; it's a \"bid\" signal.",
+  "player_seat": "S",
+  "player_name": "South",
+  "bidding": [
+    {
+      "seat": "N",
+      "call": "1♦"
+    },
+    {
+      "seat": "E",
+      "call": "3♠"
+    },
+    {
+      "seat": "S",
+      "call": "?"
+    }
+  ],
+  "hand": {
+    "spades": "AJ875",
+    "hearts": "K7542",
+    "diamonds": "53",
+    "clubs": "6"
+  },
+  "options": [
+    "P",
+    "X",
+    "3NT",
+    "4♥"
+  ],
+  "correct_answer": "P",
+  "is_premium": true
+},
     {
         "id": "2026-05-01-atak",
         "date": "2026-05-01",
