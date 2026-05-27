@@ -3650,7 +3650,10 @@
             {
                 "seat": "E",
                 "call": "P"
-            }
+            },
+            {
+                "seat": "S",
+                "call": "?"
         ],
         "hand": {
             "spades": "KJ",
