@@ -5388,31 +5388,5 @@
         ],
         "correct_answer": "♦10",
         "is_premium": false
-    },
-    {
-        "id": "2026-07-04-konusma",
-        "date": "2026-07-04",
-        "type": "konusma",
-        "title_tr": "Günün Sorusu",
-        "title_en": "Daily Question",
-        "explanation_tr": "",
-        "explanation_en": "",
-        "player_seat": "S",
-        "player_name": "South",
-        "bidding": [],
-        "hand": {
-            "spades": "",
-            "hearts": "",
-            "diamonds": "",
-            "clubs": ""
-        },
-        "options": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct_answer": "",
-        "is_premium": false
     }
 ]
