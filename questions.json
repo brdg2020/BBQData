@@ -7465,5 +7465,60 @@
         ],
         "correct_answer": "2♣",
         "is_premium": false
+    },
+    {
+        "id": "2026-08-05-konusma",
+        "date": "2026-08-05",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Zon kesin. Elimiz dengesiz olduğu için ikinci rengimizi okuruz. Böylece kupa ve sinek dışındaki renklerden zayıf isek 3NT dışında bir kontrat oynayabiliriz.",
+        "explanation_en": "Game is certain. Since we have an unbalanced hand we bid our second suit so that we can check if we are weak in other suits.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "2♦"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "2♥"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "J107",
+            "hearts": "KJ864",
+            "diamonds": "10",
+            "clubs": "AJ97"
+        },
+        "options": [
+            "4♥",
+            "3♣",
+            "3NT",
+            "3♥"
+        ],
+        "correct_answer": "4♥",
+        "is_premium": false
     }
 ]
