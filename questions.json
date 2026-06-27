@@ -5530,5 +5530,56 @@
         ],
         "correct_answer": "Pass",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-06-atak",
+        "date": "2026-07-06",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Konuşulmayan renklerden uzun olan rengimizi çıkabiliriz. Sıra yokken ufak bir kart atak ederiz.",
+        "explanation_en": "We can lead from longest unbid suits. When there is no sequence just lead small.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "W",
+                "call": "1♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "Q865",
+            "hearts": "A1064",
+            "diamonds": "K86",
+            "clubs": "94"
+        },
+        "options": [
+            "♥4",
+            "♦6",
+            "♣9",
+            "♠5"
+        ],
+        "correct_answer": "♥4",
+        "is_premium": false
     }
 ]
