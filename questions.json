@@ -6936,5 +6936,40 @@
         ],
         "correct_answer": "♠5",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-25-konusma",
+        "date": "2026-07-25",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "En az açar puan ve rakip dışındaki renklere hazır bir dağılım gösterir.",
+        "explanation_en": "Shows at leasts openings values and hand shape other than opponents suit.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♥"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "Q763",
+            "hearts": "K7",
+            "diamonds": "AK74",
+            "clubs": "Q97"
+        },
+        "options": [
+            "Pass",
+            "1NT",
+            "DBL",
+            "1♠"
+        ],
+        "correct_answer": "DBL",
+        "is_premium": false
     }
 ]
