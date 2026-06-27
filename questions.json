@@ -5287,7 +5287,7 @@
         "hand": {
             "spades": "Q654",
             "hearts": "QJ8754",
-            "diamonds": "T",
+            "diamonds": "10",
             "clubs": "85"
         },
         "options": [
