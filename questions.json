@@ -1,5 +1,72 @@
 [
     {
+        "id": "2026-03-03-atak",
+        "date": "2026-03-03",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Rakip sinek açtığından kupa ve karodan birini seçebiliriz. Her ik, atak da mantıklı. Benim tercihim karo olurdu.",
+        "explanation_en": "We can lead other than opening suit. Both ♦️ and ♥️ leads are OK. I would choose diamond.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "W",
+                "call": "1♣"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "1NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "2♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "K10",
+            "hearts": "Q1075",
+            "diamonds": "J75",
+            "clubs": "K864"
+        },
+        "options": [
+            "♥5",
+            "♦5",
+            "♣4",
+            "♥Q"
+        ],
+        "correct_answer": "♦5",
+        "is_premium": false
+    },
+    {
         "id": "2026-03-04-konusma",
         "date": "2026-03-04",
         "type": "konusma",
