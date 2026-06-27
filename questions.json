@@ -5353,5 +5353,64 @@
         ],
         "correct_answer": "♦10",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-03-konusma",
+        "date": "2026-07-03",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Kozdan çıkmamız için bir neden yok. Kozlu oyunlarda Asın altından çıkmak çoğunlukla löve kaybettirir. Bu nedenle en uygun atak kupa gibi duruyor.",
+        "explanation_en": "No need to lead from trump. Leading from unsupported aces against suits contracts is dangerous so best lead seems to be a heart.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "3♠"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "4♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "J5",
+            "hearts": "J64",
+            "diamonds": "A10764",
+            "clubs": "A96"
+        },
+        "options": [
+            "♠5",
+            "♥4",
+            "♦A",
+            "♣A"
+        ],
+        "correct_answer": "♥4",
+        "is_premium": false
     }
 ]
