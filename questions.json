@@ -7057,5 +7057,72 @@
         ],
         "correct_answer": "3♥",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-28-atak",
+        "date": "2026-07-28",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortağın dblı sinek atağı ister. Bu nedenle ortağın güçlü olan rengini çıkmamız daha doğru.",
+        "explanation_en": "Partner's dbl shows good club so instead of leading our own suit we lead club.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♣"
+            },
+            {
+                "seat": "N",
+                "call": "DBL"
+            },
+            {
+                "seat": "E",
+                "call": "2♥"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "4♥"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "K65",
+            "hearts": "654",
+            "diamonds": "KQ52",
+            "clubs": "J65"
+        },
+        "options": [
+            "♠4",
+            "♥4",
+            "♦K",
+            "♣5"
+        ],
+        "correct_answer": "♠4",
+        "is_premium": false
     }
 ]
