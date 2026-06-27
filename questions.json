@@ -7269,5 +7269,72 @@
         ],
         "correct_answer": "Pass",
         "is_premium": false
+    },
+    {
+        "id": "2026-08-01-atak",
+        "date": "2026-08-01",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "En uzun rengimiz karo olmasına rağmen rakibin rengi olduğundan ikinci uzunumuzu atak ederiz. Sıra yokken ufak çıkarız.",
+        "explanation_en": "Although diamond is our longest suit opponent opened it. So we lead our second longest suit. When there is no sequence we lead small.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♦"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "1♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "J7",
+            "hearts": "Q762",
+            "diamonds": "A10643",
+            "clubs": "98"
+        },
+        "options": [
+            "♥2",
+            "♦4",
+            "♣9",
+            "♥Q"
+        ],
+        "correct_answer": "♥2",
+        "is_premium": false
     }
 ]
