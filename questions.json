@@ -5789,5 +5789,52 @@
         ],
         "correct_answer": "♦4",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-11-konusma",
+        "date": "2026-07-11",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "12 puan olmasına rağmen fazla kozumuz ve dengesiz elimiz olduğu için direkt zon demek doğrudur.",
+        "explanation_en": "Although we have a minimum opening values extra trump and unbalanced hand help us bidding game. Six-four bid more!",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♥"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "2♥"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AQJ4",
+            "hearts": "AJ10964",
+            "diamonds": "74",
+            "clubs": "6"
+        },
+        "options": [
+            "Pass",
+            "2♥",
+            "3♥",
+            "4♥"
+        ],
+        "correct_answer": "4♥",
+        "is_premium": false
     }
 ]
