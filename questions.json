@@ -5985,5 +5985,44 @@
         ],
         "correct_answer": "♠3",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-15-konusma",
+        "date": "2026-07-15",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Bu eli anlatmak için bir konvansiyon kullanırız. 1NT cevabına 3♥️ tek kupa ve 5-4 minörler gösterir.",
+        "explanation_en": "We use a conventional bid. 3♥️ shows singleton with 5-4 minors.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "K65",
+            "hearts": "6",
+            "diamonds": "AJ874",
+            "clubs": "K1075"
+        },
+        "options": [
+            "3NT",
+            "2♣",
+            "3♥",
+            "2NT"
+        ],
+        "correct_answer": "3♥",
+        "is_premium": false
     }
 ]
