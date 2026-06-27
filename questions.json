@@ -7124,5 +7124,44 @@
         ],
         "correct_answer": "♠4",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-29-konusma",
+        "date": "2026-07-29",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Zon kesin fakat 5♦️ mu? 3NT mi?\n Bu eli anlatmanın yolu karoya transfer edip tek kartımızı söylemektir. Böylece son kararı ortağa bırakmış oluruz. Ortakta kupa kuvvetli ise 3NT oynarız.",
+        "explanation_en": "Game is certain but which one? 3NT? or 5♦️? \nWe transfer to ♦️ and then bid our singleton so that partner can give the final decision. If partner has strong heart we plan 3NT.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "KJ10",
+            "hearts": "9",
+            "diamonds": "A108753",
+            "clubs": "K74"
+        },
+        "options": [
+            "3NT",
+            "2♣",
+            "2♦",
+            "3♣"
+        ],
+        "correct_answer": "3♣",
+        "is_premium": false
     }
 ]
