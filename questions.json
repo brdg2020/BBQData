@@ -5261,8 +5261,8 @@
         "is_premium": false
     },
     {
-        "id": "2026-06-27-atak",
-        "date": "2026-06-27",
+        "id": "2026-07-01-atak",
+        "date": "2026-07-01",
         "type": "atak",
         "title_tr": "Günün Sorusu",
         "title_en": "Daily Question",
@@ -5316,8 +5316,8 @@
         "is_premium": false
     },
     {
-        "id": "2026-07-27-konusma",
-        "date": "2026-07-27",
+        "id": "2026-07-02-konusma",
+        "date": "2026-07-02",
         "type": "konusma",
         "title_tr": "Günün Sorusu",
         "title_en": "Daily Question",
@@ -5351,8 +5351,8 @@
         "is_premium": false
     },
     {
-        "id": "2026-07-28-atak",
-        "date": "2026-07-28",
+        "id": "2026-07-03-atak",
+        "date": "2026-07-03",
         "type": "atak",
         "title_tr": "Günün Sorusu",
         "title_en": "Daily Question",
