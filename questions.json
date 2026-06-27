@@ -1,5 +1,163 @@
 [
     {
+        "id": "2026-03-05-konusma",
+        "date": "2026-03-05",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Kozlu oyunlara sıklıkla doubleton (2'li kart) dan atak edilir. Dikkat etmemiz gereken şey 2 taneden büyüğünü çıkmalıyız böylece ortak bizde 2 adet olduğunu anlayabilir.",
+        "explanation_en": "We lead regularly from doubleton against suit contrast. We lead high from doubleton so that printer can foresee we have doubleton.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♣"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "1♥"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "2♣"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "83",
+            "hearts": "K54",
+            "diamonds": "AJ54",
+            "clubs": "A865"
+        },
+        "options": [
+            "♠8",
+            "♥4",
+            "♦4",
+            "♦A"
+        ],
+        "correct_answer": "♠8",
+        "is_premium": false
+    },
+    {
+        "id": "2026-03-07-atak",
+        "date": "2026-03-07",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Karo ve sinek atağı mantıklı. Sıralının büyüğünü çıkabiliriz.",
+        "explanation_en": "Both club and diamond leads are logical. We can lead from touching honors.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "2♣"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♦"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "2NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "6NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "1♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "2♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "4♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "A985",
+            "hearts": "A103",
+            "diamonds": "KQ54",
+            "clubs": "87"
+        },
+        "options": [
+            "♦K",
+            "♥A",
+            "♣10",
+            "♠5"
+        ],
+        "correct_answer": "♦K",
+        "is_premium": false
+    },
+    {
         "id": "2026-03-08-konusma",
         "date": "2026-03-08",
         "type": "konusma",
@@ -6090,105 +6248,6 @@
             "♣J"
         ],
         "correct_answer": "♠5",
-        "is_premium": false
-    },
-    {
-        "id": "2026-03-07-atak",
-        "date": "2026-03-07",
-        "type": "atak",
-        "title_tr": "Günün Sorusu",
-        "title_en": "Daily Question",
-        "explanation_tr": "Karo ve sinek atağı mantıklı. Sıralının büyüğünü çıkabiliriz.",
-        "explanation_en": "Both club and diamond leads are logical. We can lead from touching honors.",
-        "player_seat": "S",
-        "player_name": "South",
-        "bidding": [
-            {
-                "seat": "E",
-                "call": "2♣"
-            },
-            {
-                "seat": "S",
-                "call": "P"
-            },
-            {
-                "seat": "W",
-                "call": "2♦"
-            },
-            {
-                "seat": "N",
-                "call": "P"
-            },
-            {
-                "seat": "E",
-                "call": "2NT"
-            },
-            {
-                "seat": "S",
-                "call": "P"
-            },
-            {
-                "seat": "W",
-                "call": "6NT"
-            },
-            {
-                "seat": "N",
-                "call": "P"
-            },
-            {
-                "seat": "E",
-                "call": "P"
-            },
-            {
-                "seat": "S",
-                "call": "P"
-            },
-            {
-                "seat": "W",
-                "call": "1♠"
-            },
-            {
-                "seat": "N",
-                "call": "P"
-            },
-            {
-                "seat": "E",
-                "call": "2♠"
-            },
-            {
-                "seat": "S",
-                "call": "P"
-            },
-            {
-                "seat": "W",
-                "call": "4♠"
-            },
-            {
-                "seat": "N",
-                "call": "P"
-            },
-            {
-                "seat": "E",
-                "call": "P"
-            },
-            {
-                "seat": "S",
-                "call": "P"
-            }
-        ],
-        "hand": {
-            "spades": "A985",
-            "hearts": "A103",
-            "diamonds": "KQ54",
-            "clubs": "87"
-        },
-        "options": [
-            "♦K",
-            "♥A",
-            "♣10",
-            "♠5"
-        ],
-        "correct_answer": "♦K",
         "is_premium": false
     }
 ]
