@@ -7371,5 +7371,60 @@
         ],
         "correct_answer": "3♦",
         "is_premium": false
+    },
+    {
+        "id": "2026-08-03-atak",
+        "date": "2026-08-03",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Kendi rengimizi çıkmaktansa ortaklık olarak uzun rengimiz maçayı atak ederiz. İki taneden büyüğünü çıkarız.",
+        "explanation_en": "We lead longest suit in our partnership rather than our own suit. High from doubleton.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "103",
+            "hearts": "Q10942",
+            "diamonds": "Q108",
+            "clubs": "J96"
+        },
+        "options": [
+            "♠10",
+            "♥10",
+            "♦8",
+            "♣6"
+        ],
+        "correct_answer": "♠10",
+        "is_premium": false
     }
 ]
