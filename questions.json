@@ -5314,5 +5314,40 @@
         ],
         "correct_answer": "♦10",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-27-konusma",
+        "date": "2026-07-27",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "En az açar puan ve rakip renk dışındaki renklere hazır bir dağılım gerekir.",
+        "explanation_en": "At least opening values. 12 pts and our hand should be ready for unbid suits especially for majors.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♦"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "KQT4",
+            "hearts": "KJ54",
+            "diamonds": "K6",
+            "clubs": "J75"
+        },
+        "options": [
+            "P",
+            "1♥",
+            "1♠",
+            "DBL"
+        ],
+        "correct_answer": "DBL",
+        "is_premium": false
     }
 ]
