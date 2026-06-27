@@ -7426,5 +7426,44 @@
         ],
         "correct_answer": "♠10",
         "is_premium": false
+    },
+    {
+        "id": "2026-08-04-konusma",
+        "date": "2026-08-04",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "5-4 major varken stayman ile başlanır. Ortak 2♦️ derse 3♠️ deriz. \nSmolen konvansiyonu, 5li kupa 4lü maça göster.r",
+        "explanation_en": "When we have 5-4 majors start with stayman. If partner bids  2♦️ we bid 3♠️. \nSmolen convention shows 5li card heart with 4card spade.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AJ97",
+            "hearts": "KQ842",
+            "diamonds": "976",
+            "clubs": "8"
+        },
+        "options": [
+            "3NT",
+            "2♣",
+            "2♦",
+            "2♥"
+        ],
+        "correct_answer": "2♣",
+        "is_premium": false
     }
 ]
