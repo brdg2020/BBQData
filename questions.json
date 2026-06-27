@@ -5687,5 +5687,52 @@
         ],
         "correct_answer": "♠5",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-09-konusma",
+        "date": "2026-07-09",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "ikinici rengimizi sıçrayarak okuruz. Jump-shift. en az 4 kart ve en az 18 puan gösterir.",
+        "explanation_en": "We can jump-shift our second suit. it shows at least 4card and at least 18 points.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♠"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AKJ86",
+            "hearts": "K6",
+            "diamonds": "A765",
+            "clubs": "K4"
+        },
+        "options": [
+            "3NT",
+            "2NT",
+            "2♦",
+            "3♦"
+        ],
+        "correct_answer": "3♦",
+        "is_premium": false
     }
 ]
