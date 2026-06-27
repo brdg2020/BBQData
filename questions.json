@@ -6971,5 +6971,52 @@
         ],
         "correct_answer": "DBL",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-26-atak",
+        "date": "2026-07-26",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "NT'ye karşı As altından atak edilebilir. Sıra yoksa ufak bir kart atak ederiz.",
+        "explanation_en": "Against NT we can lead from our longest suit. Small if no sequence.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♣"
+            },
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "A8532",
+            "hearts": "7653",
+            "diamonds": "85",
+            "clubs": "86"
+        },
+        "options": [
+            "♠3",
+            "♥3",
+            "♣8",
+            "♦8"
+        ],
+        "correct_answer": "♠3",
+        "is_premium": false
     }
 ]
