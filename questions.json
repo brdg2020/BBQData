@@ -5836,5 +5836,68 @@
         ],
         "correct_answer": "4♥",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-12-atak",
+        "date": "2026-07-12",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Sıralının büyüğünü atak etmektense ortağın açtığı rengi atak etmek daha faydalı olabilir.",
+        "explanation_en": "We can lead partners' suit rather than torching honors in ♦️",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♣"
+            },
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♣"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "4♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "Q106",
+            "hearts": "J75",
+            "diamonds": "QJ53",
+            "clubs": "1064"
+        },
+        "options": [
+            "♥3",
+            "♦2",
+            "♣2",
+            "♣10"
+        ],
+        "correct_answer": "♣2",
+        "is_premium": false
     }
 ]
