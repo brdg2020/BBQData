@@ -6587,5 +6587,72 @@
         ],
         "correct_answer": "Pass",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-18-atak",
+        "date": "2026-07-18",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Konuşulmayan renklersen güvenli olanı seçeriz. Kupadan fire verme ihtimalimiz olduğundan basitçe sinek atak etmek mantıklı seçimdir.",
+        "explanation_en": "We can lead from safe and unbid suits. Heart lead may cost a trick so simply lead a club.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "W",
+                "call": "1♦"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "4♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "65",
+            "hearts": "Q1032",
+            "diamonds": "K632",
+            "clubs": "652"
+        },
+        "options": [
+            "♣2",
+            "♠6",
+            "♥2",
+            "♦5"
+        ],
+        "correct_answer": "♣2",
+        "is_premium": false
     }
 ]
