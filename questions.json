@@ -5593,7 +5593,7 @@
             }
         ],
         "hand": {
-            "spades": "K64",
+            "spades": "K84",
             "hearts": "K64",
             "diamonds": "QJ7",
             "clubs": "A652"
@@ -5604,7 +5604,7 @@
             "♦Q",
             "♣A"
         ],
-        "correct_answer": "♠4",
+        "correct_answer": "♥4",
         "is_premium": true
     },
     {
