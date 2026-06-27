@@ -5360,8 +5360,8 @@
         "type": "konusma",
         "title_tr": "Günün Sorusu",
         "title_en": "Daily Question",
-        "explanation_tr": "Kozdan çıkmamız için bir neden yok. Kozlu oyunlarda Asın altından çıkmak çoğunlukla löve kaybettirir. Bu nedenle en uygun atak kupa gibi duruyor.",
-        "explanation_en": "No need to lead from trump. Leading from unsupported aces against suits contracts is dangerous so best lead seems to be a heart.",
+        "explanation_tr": "4lü fitimiz varken 8-9-10 puanla davet edebiliriz. 2 ♠️ dersek biraz daha az puan göstermiş oluruz. 4♠️ gambling konuşmadır. Uzun koz, dengesiz el ve ortalamadan (10) az puan gösterir.",
+        "explanation_en": "We can invite with 4card fit 8-10 pts. 2spade would show a bit less. 4♠️ is gambling, shows 4-5 fit, unbalanced hand and few points. less than average (10) pts.",
         "player_seat": "S",
         "player_name": "South",
         "bidding": [
@@ -5396,21 +5396,33 @@
             {
                 "seat": "W",
                 "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
             }
         ],
         "hand": {
-            "spades": "J5",
-            "hearts": "J64",
-            "diamonds": "A10764",
-            "clubs": "A96"
+            "spades": "K1075",
+            "hearts": "Q105",
+            "diamonds": "KJ6",
+            "clubs": "J92"
         },
         "options": [
-            "♠5",
-            "♥4",
-            "♦A",
-            "♣A"
+            "1NT",
+            "2♠",
+            "3♠",
+            "4♠"
         ],
-        "correct_answer": "♥4",
+        "correct_answer": "3♠",
         "is_premium": false
     },
     {
