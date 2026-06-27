@@ -5734,5 +5734,60 @@
         ],
         "correct_answer": "3♦",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-10-atak",
+        "date": "2026-07-10",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Zor bir atak. Sıralı rengimiz yok. Aslardan çıkıp löve kaybetmektense karodan atak etmek en iyisi.",
+        "explanation_en": "Tough hand. Rather than leading from aces and take a risk we can lead from ♦️.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1NT"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "2♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "AJ75",
+            "hearts": "AJ4",
+            "diamonds": "Q84",
+            "clubs": "A74"
+        },
+        "options": [
+            "♠5",
+            "♥A",
+            "♦4",
+            "♣A"
+        ],
+        "correct_answer": "♦4",
+        "is_premium": false
     }
 ]
