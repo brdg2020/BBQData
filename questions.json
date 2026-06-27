@@ -7336,5 +7336,40 @@
         ],
         "correct_answer": "♥2",
         "is_premium": false
+    },
+    {
+        "id": "2026-08-02-konusma",
+        "date": "2026-08-02",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "18 ve daha fazla puanımız varken önce dbl sonra rengimizi okuruz.",
+        "explanation_en": "When we have at least 18 points rather than bidding our suit first we dbl then bid our suit.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "2♠"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "6",
+            "hearts": "KQ",
+            "diamonds": "AQJ532",
+            "clubs": "AQ76"
+        },
+        "options": [
+            "3♦",
+            "DBL",
+            "2NT",
+            "4♦"
+        ],
+        "correct_answer": "3♦",
+        "is_premium": false
     }
 ]
