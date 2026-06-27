@@ -6701,5 +6701,56 @@
         ],
         "correct_answer": "3NT",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-20-atak",
+        "date": "2026-07-20",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortakta uzun kaliteli sinek olmalı bu nedenle ortağın rengini atak ederiz. 2 adetten büyüğünü çıkarız.",
+        "explanation_en": "We lead partners overcall. High from doubleton.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "W",
+                "call": "1♠"
+            },
+            {
+                "seat": "N",
+                "call": "2♣"
+            },
+            {
+                "seat": "E",
+                "call": "2♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "J54",
+            "hearts": "KQ3",
+            "diamonds": "87532",
+            "clubs": "J5"
+        },
+        "options": [
+            "♥K",
+            "♦2",
+            "♣J",
+            "♠4"
+        ],
+        "correct_answer": "♣J",
+        "is_premium": false
     }
 ]
