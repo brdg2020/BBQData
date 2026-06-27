@@ -7206,5 +7206,68 @@
         ],
         "correct_answer": "♥10",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-31-konusma",
+        "date": "2026-07-31",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortak davet ediyor. Ortalama puan gösterdi (10-11) bizde minimum olduğu için pas geçeriz.",
+        "explanation_en": "Partner invites with average points (10-11) since we have minimum values we pass.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♦"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "1NT"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "2NT"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A5",
+            "hearts": "A75",
+            "diamonds": "Q764",
+            "clubs": "Q974"
+        },
+        "options": [
+            "Pass",
+            "3NT",
+            "3♣",
+            "3♦"
+        ],
+        "correct_answer": "Pass",
+        "is_premium": false
     }
 ]
