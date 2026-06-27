@@ -5300,38 +5300,58 @@
         "is_premium": false
     },
     {
-        "id": "2026-07-02-konusma",
+        "id": "2026-07-02-atak",
         "date": "2026-07-02",
-        "type": "konusma",
+        "type": "atak",
         "title_tr": "Günün Sorusu",
         "title_en": "Daily Question",
-        "explanation_tr": "En az açar puan ve rakip renk dışındaki renklere hazır bir dağılım gerekir.",
-        "explanation_en": "At least opening values. 12 pts and our hand should be ready for unbid suits especially for majors.",
+        "explanation_tr": "Kozlu oyunlara tek kartımızı çıkmak önceliklidir. Sıralını büyüğü kupa Q da bir seçenek fakat tek kart öncelikli.",
+        "explanation_en": "Leading our singleton to suit contracts has privileges. QH lead also an alternative but singleton is better choice.",
         "player_seat": "S",
         "player_name": "South",
         "bidding": [
             {
-                "seat": "E",
+                "seat": "N",
                 "call": "1♦"
             },
             {
+                "seat": "E",
+                "call": "2♠"
+            },
+            {
                 "seat": "S",
-                "call": "?"
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "4♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
             }
         ],
         "hand": {
-            "spades": "KQT4",
-            "hearts": "KJ54",
-            "diamonds": "K6",
-            "clubs": "J75"
+            "spades": "Q643",
+            "hearts": "QJ9643",
+            "diamonds": "10",
+            "clubs": "62"
         },
         "options": [
-            "P",
-            "1♥",
-            "1♠",
-            "DBL"
+            "♠4",
+            "♥Q",
+            "♦10",
+            "♣6"
         ],
-        "correct_answer": "DBL",
+        "correct_answer": "♦10",
         "is_premium": false
     },
     {
