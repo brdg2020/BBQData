@@ -6842,5 +6842,44 @@
         ],
         "correct_answer": "♠4",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-23-konusma",
+        "date": "2026-07-23",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "2 seviyesinde yeni renk en az 12 puan göstereceğinden 1NT demeliyiz.",
+        "explanation_en": "New suit at 2 level shows at least 12 points so we bid 1NT.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♥"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "J108",
+            "hearts": "J5",
+            "diamonds": "K75",
+            "clubs": "AJ654"
+        },
+        "options": [
+            "Pass",
+            "2♣",
+            "1NT",
+            "2♥"
+        ],
+        "correct_answer": "1NT",
+        "is_premium": false
     }
 ]
