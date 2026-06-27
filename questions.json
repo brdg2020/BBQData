@@ -6881,5 +6881,60 @@
         ],
         "correct_answer": "1NT",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-24-atak",
+        "date": "2026-07-24",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Uzun rengimizi atak edebiliriz. Sıra yoksa ufak bir kart.",
+        "explanation_en": "We cna lead from pour longest suit. Lead small one when there is no sequence.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♠"
+            },
+            {
+                "seat": "W",
+                "call": "2♦"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "3NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "K107542",
+            "hearts": "KJ",
+            "diamonds": "KQ5",
+            "clubs": "105"
+        },
+        "options": [
+            "♠5",
+            "♦K",
+            "♣10",
+            "♦Q"
+        ],
+        "correct_answer": "♠5",
+        "is_premium": false
     }
 ]
