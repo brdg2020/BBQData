@@ -7163,5 +7163,48 @@
         ],
         "correct_answer": "3♣",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-30-atak",
+        "date": "2026-07-30",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Deklarasyona göre uzun rengimizi atak etmektense majör çıkmaya çalışırız. En kayıpsız rengimiz olan kupayı seçebiliriz.",
+        "explanation_en": "According to the bidding we lead major rather than minor. We lead from the safest suit which is heart here.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "2NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "J97",
+            "hearts": "1097",
+            "diamonds": "Q642",
+            "clubs": "KQ4"
+        },
+        "options": [
+            "♠9",
+            "♥10",
+            "♦2",
+            "♣K"
+        ],
+        "correct_answer": "♥10",
+        "is_premium": false
     }
 ]
