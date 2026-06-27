@@ -1,5 +1,36 @@
 [
     {
+        "id": "2026-03-02-konusma",
+        "date": "2026-03-02",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Zayıf açış yapabiliriz. 6 kart 5-10 puan gösterir.",
+        "explanation_en": "We can bid weak openings. It shoes 6card and 5-10 points",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AJ8632",
+            "hearts": "54",
+            "diamonds": "Q953",
+            "clubs": "9"
+        },
+        "options": [
+            "Pass",
+            "2♠",
+            "1♠",
+            "3♠"
+        ],
+        "correct_answer": "2♠",
+        "is_premium": false
+    },
+    {
         "id": "2026-03-03-atak",
         "date": "2026-03-03",
         "type": "atak",
