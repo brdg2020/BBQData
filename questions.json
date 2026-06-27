@@ -7018,5 +7018,44 @@
         ],
         "correct_answer": "♠3",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-27-konusma",
+        "date": "2026-07-27",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Direkt zon deriz. Uzun koz, dengesiz el ve az puan gösterir. (10-) Gambling konuşması denir.",
+        "explanation_en": "Gambling bid shows unbalanced hand, at least 4card support and less than 10 pts.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♥"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "765",
+            "hearts": "K7643",
+            "diamonds": "6",
+            "clubs": "QJ97"
+        },
+        "options": [
+            "Pass",
+            "2♥",
+            "3♥",
+            "4♥"
+        ],
+        "correct_answer": "3♥",
+        "is_premium": false
     }
 ]
