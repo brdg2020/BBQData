@@ -5581,5 +5581,44 @@
         ],
         "correct_answer": "♥4",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-07-konusma",
+        "date": "2026-07-07",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "2 seviyesinde yeni renk en az 12 puan ve 5 kart gösterir. En az 5-6 puanla cevapçı konuşabilir. Bu nedenle tek seçenek 1NT.",
+        "explanation_en": "New suit at level2 shows at least opening values and 5 cards. Responder should bid from 5-6 points. So 1NT is the correct answer.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "",
+            "hearts": "KJ864",
+            "diamonds": "Q85",
+            "clubs": "J10976"
+        },
+        "options": [
+            "2♥",
+            "1NT",
+            "2♣",
+            "Pass"
+        ],
+        "correct_answer": "1NT",
+        "is_premium": false
     }
 ]
