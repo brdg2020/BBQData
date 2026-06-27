@@ -59,6 +59,93 @@
         "is_premium": false
     },
     {
+        "id": "2026-03-06-konusma",
+        "date": "2026-03-06",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "25 puan olmadan dengesiz elimiz sayesinde kolayca zon yapabiliriz. Bu nedenle 3♠️ diye davet ederiz. 6 kart ve ortalama puan gösterir. (10 civarı)",
+        "explanation_en": "We can easily make game less than 25 points. So we can invite with 3♠️ showing 6 card with average points. (10pts)",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♣"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "1♥"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "2♣"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1♣"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "1♠"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AJ9876",
+            "hearts": "8",
+            "diamonds": "KJ6",
+            "clubs": "965"
+        },
+        "options": [
+            "Pass",
+            "2♠",
+            "3♠",
+            "4♠"
+        ],
+        "correct_answer": "Pass",
+        "is_premium": false
+    },
+    {
         "id": "2026-03-07-atak",
         "date": "2026-03-07",
         "type": "atak",
