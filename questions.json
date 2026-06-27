@@ -6024,5 +6024,72 @@
         ],
         "correct_answer": "3♥",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-16-atak",
+        "date": "2026-07-16",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "NT oynanırken beklenti en uzun rengimizden atak etmektir. Rakip şilem oynarken dikkat olmalıyız kupadan löve kaybetme ihtimalimiz olduğundan sinek atak daha mantıklıdır.",
+        "explanation_en": "Common behavior is leading from longest suit against NT. When leading against slam we should be careful and conservative so rather than leading ♥️ we choose ♣️.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "2♣"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♦"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "2NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "6NT"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "753",
+            "hearts": "Q7642",
+            "diamonds": "96",
+            "clubs": "J105"
+        },
+        "options": [
+            "♠5",
+            "♥4",
+            "♦9",
+            "♣J"
+        ],
+        "correct_answer": "♠5",
+        "is_premium": false
     }
 ]
