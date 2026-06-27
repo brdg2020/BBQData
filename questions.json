@@ -7520,5 +7520,40 @@
         ],
         "correct_answer": "4♥",
         "is_premium": false
+    },
+    {
+        "id": "2026-08-06-konusma",
+        "date": "2026-08-06",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "1 minör açışına 2minör konuşması her iki majörü gösterir. Michael's cuebid konvansiyonu.",
+        "explanation_en": "Michael's Cuebid convention shows 5-5 majors when partner opens 1 minor and you bid 2 level of that minor.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♣"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AQ965",
+            "hearts": "KQ854",
+            "diamonds": "98",
+            "clubs": "9"
+        },
+        "options": [
+            "1♠",
+            "1♥",
+            "DBL",
+            "2♣"
+        ],
+        "correct_answer": "2♣",
+        "is_premium": false
     }
 ]
