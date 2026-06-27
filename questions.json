@@ -5942,5 +5942,48 @@
         ],
         "correct_answer": "2♣",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-14-atak",
+        "date": "2026-07-14",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Majör renklerimizden kaliteli olanı atak etmek mantıklı. Maçada 10'lu olduğu için atak tercih edebiliriz.",
+        "explanation_en": "We can lead from strongest major suit. Since we have 10 of ♠️ we lead small ♠️",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "K1073",
+            "hearts": "K874",
+            "diamonds": "Q5",
+            "clubs": "Q63"
+        },
+        "options": [
+            "♠3",
+            "♥4",
+            "♣3",
+            "♦Q"
+        ],
+        "correct_answer": "♠3",
+        "is_premium": false
     }
 ]
