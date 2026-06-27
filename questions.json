@@ -5261,15 +5261,15 @@
         "is_premium": false
     },
     {
-        "id": "2026-07-01-atak",
+        "id": "2026-07-01-konusma",
         "date": "2026-07-01",
-        "type": "atak",
+        "type": "konusma",
         "title_tr": "Günün Sorusu",
         "title_en": "Daily Question",
-        "explanation_tr": "Kozlu oyunlara tek kartımızı çıkmak mantıklı. Sıralı rengimiz olmasına rağmen karo atağı daha doğru olacaktır.",
-        "explanation_en": "We can lead your singleton to suit contracts. It is also a good idea to form touching honors but singleton has priorities.",
-        "player_seat": "N",
-        "player_name": "North",
+        "explanation_tr": "Yeni rengimiz en az 5 kart ve en az ortalama puan gösterir (10). Bu seviyede dbl da en az ortalama güç gösterdiğinden pas mantıklı. 2NT davet eli gösterir.",
+        "explanation_en": "New suit shows at least 5 card and at least average points (10). Dbl also shows average strength so pass is the best bid here. 2NT shows invitation.",
+        "player_seat": "S",
+        "player_name": "South",
         "bidding": [
             {
                 "seat": "N",
@@ -5281,23 +5281,7 @@
             },
             {
                 "seat": "S",
-                "call": "P"
-            },
-            {
-                "seat": "W",
-                "call": "4♠"
-            },
-            {
-                "seat": "N",
-                "call": "P"
-            },
-            {
-                "seat": "E",
-                "call": "P"
-            },
-            {
-                "seat": "S",
-                "call": "P"
+                "call": "?"
             }
         ],
         "hand": {
@@ -5307,12 +5291,12 @@
             "clubs": "85"
         },
         "options": [
-            "♥Q",
-            "♣6",
-            "♦10",
-            "♠4"
+            "DBL",
+            "3♥",
+            "Pass",
+            "2NT"
         ],
-        "correct_answer": "♦10",
+        "correct_answer": "Pass",
         "is_premium": false
     },
     {
