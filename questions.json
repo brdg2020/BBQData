@@ -6752,5 +6752,44 @@
         ],
         "correct_answer": "♣J",
         "is_premium": false
+    },
+    {
+        "id": "2026-07-21-konusma",
+        "date": "2026-07-21",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "1NT açışına rakip müdahelesinden sonra stayman-transfer kalkar ve konuşmalar doğaldır. 2 seviyesinde söylediklerimiz en az 5 kart ve az puan gösterir (8-)",
+        "explanation_en": "After opponent interference against 1NT 2 level bids are to play. Shows at least 5 card and 8- pts.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "2♥"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A8653",
+            "hearts": "98",
+            "diamonds": "Q75",
+            "clubs": "975"
+        },
+        "options": [
+            "DBL",
+            "2♠",
+            "3♥",
+            "Pass"
+        ],
+        "correct_answer": "DBL",
+        "is_premium": false
     }
 ]
