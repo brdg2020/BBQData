@@ -5546,8 +5546,8 @@
         "type": "atak",
         "title_tr": "Günün Sorusu",
         "title_en": "Daily Question",
-        "explanation_tr": "Karo rakibin rengi. Konuşulmayan renklerden hangisini çıkacağız? As olan rengi bekleriz maça atağı en doğrusu.",
-        "explanation_en": "We omit ♦ lead since opponent opened it. Which of the unbid suits should we play? We wait for the ace suit; leading spade is the best option.",
+        "explanation_tr": "Karo rakibin rengi. Konuşulmayan renklerden hangisini çıkacağız? As olan rengi bekleriz kupa atağı iyi gibi görünüyor.",
+        "explanation_en": "We omit ♦ lead since opponent opened it. Which of the unbid suits should we play? We wait for the ace suit; leading heart is the best option.",
         "player_seat": "S",
         "player_name": "South",
         "bidding": [
@@ -5594,7 +5594,7 @@
         ],
         "hand": {
             "spades": "K84",
-            "hearts": "K64",
+            "hearts": "Q64",
             "diamonds": "QJ7",
             "clubs": "A652"
         },
