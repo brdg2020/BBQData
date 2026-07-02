@@ -5816,38 +5816,6 @@
             },
             {
                 "seat": "S",
-                "call": "3♠"
-            },
-            {
-                "seat": "W",
-                "call": "P"
-            },
-            {
-                "seat": "N",
-                "call": "4♠"
-            },
-            {
-                "seat": "E",
-                "call": "P"
-            },
-            {
-                "seat": "S",
-                "call": "P"
-            },
-            {
-                "seat": "W",
-                "call": "P"
-            },
-            {
-                "seat": "N",
-                "call": "1♠"
-            },
-            {
-                "seat": "E",
-                "call": "P"
-            },
-            {
-                "seat": "S",
                 "call": "?"
             }
         ],
