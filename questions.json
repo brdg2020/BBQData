@@ -7617,7 +7617,7 @@
         "title_tr": "Günün Sorusu",
         "title_en": "Daily Question",
         "explanation_tr": "2NT araya girişi rakip renk dışındaki en küçük iki rengi ifade eden \"unusual NT\" konvansiyonu olarak bilinir.",
-        "explanation_en": "2NT overcall against",
+        "explanation_en": "2NT overcall against 1 level suit shows 2 lowest suits at least 5-5 shape. This convention is called \"unusual NT\"",
         "player_seat": "S",
         "player_name": "South",
         "bidding": [
