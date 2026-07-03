@@ -5846,16 +5846,28 @@
         "player_name": "South",
         "bidding": [
             {
-                "seat": "N",
+                "seat": "E",
                 "call": "1♠"
             },
             {
-                "seat": "E",
+                "seat": "S",
                 "call": "P"
             },
             {
-                "seat": "S",
+                "seat": "W",
                 "call": "3♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "4♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
             },
             {
                 "seat": "W",
@@ -5863,18 +5875,6 @@
             },
             {
                 "seat": "N",
-                "call": "4♠"
-            },
-            {
-                "seat": "E",
-                "call": "P"
-            },
-            {
-                "seat": "S",
-                "call": "P"
-            },
-            {
-                "seat": "W",
                 "call": "P"
             }
         ],
