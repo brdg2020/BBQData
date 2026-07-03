@@ -7679,5 +7679,96 @@
         ],
         "correct_answer": "Pass",
         "is_premium": false
+    },
+    {
+        "id": "2026-08-11-atak",
+        "date": "2026-08-11",
+        "type": "atak",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Şileme atak ederken dikkatli olmalı, genelde löve kaybetme potansiyeli olan renklerden atak etmemeliyiz. En güvenli atak kupa gibi duruyor.",
+        "explanation_en": "When leading against slam we should keep our suits has chance to lose a trick. Heart leads seems much more safe.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "2♣"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "2♦"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "2♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "3♠"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "4NT"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "5♣"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            },
+            {
+                "seat": "E",
+                "call": "6♠"
+            },
+            {
+                "seat": "S",
+                "call": "P"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "P"
+            }
+        ],
+        "hand": {
+            "spades": "102",
+            "hearts": "95",
+            "diamonds": "Q105",
+            "clubs": "KJ8432"
+        },
+        "options": [
+            "♠2",
+            "♥9",
+            "♦5",
+            "♣3"
+        ],
+        "correct_answer": "♥9",
+        "is_premium": false
     }
 ]
