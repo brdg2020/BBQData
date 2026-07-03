@@ -7651,8 +7651,8 @@
         "type": "konusma",
         "title_tr": "Günün Sorusu",
         "title_en": "Daily Question",
-        "explanation_tr": "Açar puan ve rakip renk dışındaki diğer majör renge hazır bir dağılım var. Karomuz 3-4 kart olmamasına rağmen dbl iyi bir seçenektir.",
-        "explanation_en": "We can dbl with opening values and other major suit that opponent shows. Having 2 cards in diamonds should not prevent us dblling.",
+        "explanation_tr": "Açar puan ve rakip renk dışındaki diğer majör renge hazır bir dağılım var. Karomuz 3-4 kart olmamasına rağmen dbl iyi bir seçenektir. 2 sinek araya giriş çok kötü olmasa da majör rengimizi anlatmak daha önemlidir.",
+        "explanation_en": "We can dbl with opening values and other major suit that opponent shows. Having 2 cards in diamonds should not prevent us dblling. 2clubs overcall is not the end of the world however  it is essentail to show major first.",
         "player_seat": "S",
         "player_name": "South",
         "bidding": [
