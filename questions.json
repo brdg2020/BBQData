@@ -7609,5 +7609,40 @@
         ],
         "correct_answer": "1NT",
         "is_premium": false
+    },
+    {
+        "id": "2026-08-09-konusma",
+        "date": "2026-08-09",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "",
+        "explanation_en": "",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "6",
+            "hearts": "Q4",
+            "diamonds": "AQ1074",
+            "clubs": "KQJ65"
+        },
+        "options": [
+            "2♣",
+            "2♦",
+            "2NT",
+            "2♠"
+        ],
+        "correct_answer": "2NT",
+        "is_premium": false
     }
 ]
