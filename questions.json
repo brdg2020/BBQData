@@ -6911,8 +6911,8 @@
         "type": "konusma",
         "title_tr": "Günün Sorusu",
         "title_en": "Daily Question",
-        "explanation_tr": "En az açar puan ve rakip dışındaki renklere hazır bir dağılım gösterir.",
-        "explanation_en": "Shows at leasts openings values and hand shape other than opponents suit.",
+        "explanation_tr": "DBL, En az açar puan ve rakip dışındaki renklere hazır bir dağılım gösterir.",
+        "explanation_en": "Dbl shows at leasts openings values and hand shape other than opponents suit.",
         "player_seat": "S",
         "player_name": "South",
         "bidding": [
