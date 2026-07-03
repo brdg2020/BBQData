@@ -7523,5 +7523,52 @@
         ],
         "correct_answer": "2♣",
         "is_premium": false
+    },
+    {
+        "id": "2026-08-07-konusma",
+        "date": "2026-08-07",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortak Jacoby transfer ile maçaları gösterdi. 4 kart fitimiz varken transferi \"kırabiliriz\"\n3maça diyerek 4lü maçamızı anlatırız.",
+        "explanation_en": "Partner shows at least 5card spades with Jacoby Transfer. We can bid 3spades since we have4 card fit.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1NT"
+            },
+            {
+                "seat": "W",
+                "call": "P"
+            },
+            {
+                "seat": "N",
+                "call": "2♥"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A1065",
+            "hearts": "AQJ5",
+            "diamonds": "A75",
+            "clubs": "65"
+        },
+        "options": [
+            "2♠",
+            "3♥",
+            "3♠",
+            "3♠"
+        ],
+        "correct_answer": "2♠",
+        "is_premium": false
     }
 ]
