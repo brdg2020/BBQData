@@ -7809,5 +7809,44 @@
         ],
         "correct_answer": "2♣",
         "is_premium": false
+    },
+    {
+        "id": "2026-08-13-konusma",
+        "date": "2026-08-13",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "inverted minor konvansiyonu bu tür eller için kullanılır. 5kart minörü ve 4kart majörü olmayan en az davet gücü gösterir. 3NT dersek yanlış kontrat oynayabiliriz.",
+        "explanation_en": "Inverted minor is played in these kind of hands. It shows at leats average points and no 5card minor and 4 card major. If we bid 3NT we may play the wrong contract.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♦"
+            },
+            {
+                "seat": "E",
+                "call": "P"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "J54",
+            "hearts": "A3",
+            "diamonds": "AK87",
+            "clubs": "QJ54"
+        },
+        "options": [
+            "2♦",
+            "3NT",
+            "1NT",
+            "2♣"
+        ],
+        "correct_answer": "2♦",
+        "is_premium": false
     }
 ]
