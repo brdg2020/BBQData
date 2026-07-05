@@ -5926,8 +5926,8 @@
             }
         ],
         "hand": {
-            "spades": "AJ84",
-            "hearts": "Q7",
+            "spades": "AK842",
+            "hearts": "5",
             "diamonds": "K1054",
             "clubs": "K97"
         },
@@ -5937,7 +5937,7 @@
             "2♦",
             "2NT"
         ],
-        "correct_answer": "Pass",
+        "correct_answer": "2♦",
         "is_premium": false
     },
     {
