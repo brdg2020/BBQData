@@ -1,5 +1,44 @@
 [
     {
+        "id": "2026-08-14-konusma",
+        "date": "2026-08-14",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortak oyun açtığında bizde zon kesin el var. Direk zon demek yerine önce puanımızı anlatırız. 2/1 yaparak en az 12 puanımızı anlatırız. 5li rengimiz olmamasına rağmen 2sinek başlayabiliriz. 1Majöre 2 sinek konuşması 5 kart olmak zorunda değil.",
+        "explanation_en": "We have a game after partner opened the hand. Instead of directly bidding game first we start with 2clubs showing at least 12 points. 2clubs over 1Major may not be 5 cards. this bid is called 2/1",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A54",
+            "hearts": "A432",
+            "diamonds": "KJ65",
+            "clubs": "QJ"
+        },
+        "options": [
+            "1NT",
+            "2♣",
+            "3♠",
+            "4♠"
+        ],
+        "correct_answer": "2♣",
+        "is_premium": false
+    },
+    {
         "id": "2026-08-13-konusma",
         "date": "2026-08-13",
         "type": "konusma",
