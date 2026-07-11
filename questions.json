@@ -1,5 +1,52 @@
 [
     {
+        "id": "2026-08-16-konusma",
+        "date": "2026-08-16",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "1minör açışına 1 majör cevabından sonra 2NT konuşması 18-19 puan ve dengeli dağılım gösterir.",
+        "explanation_en": "2NT rebid over 1 major response shows 18-19 balanced hand.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♣"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "1♥"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AKQJ",
+            "hearts": "A108",
+            "diamonds": "K43",
+            "clubs": "J54"
+        },
+        "options": [
+            "1NT",
+            "4♥",
+            "2NT",
+            "3NT"
+        ],
+        "correct_answer": "2NT",
+        "is_premium": false
+    },
+    {
         "id": "2026-08-15-konusma",
         "date": "2026-08-15",
         "type": "konusma",
