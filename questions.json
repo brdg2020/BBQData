@@ -1,5 +1,52 @@
 [
     {
+        "id": "2026-08-15-konusma",
+        "date": "2026-08-15",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Açan olarak ikinci rengimizi söylemek en az 4 adet gösterir. Puanımız 18 ve daha fazla ise sıçrayarak söyleriz. Jump-shift konuşması yaparız.",
+        "explanation_en": "As an opener we can bid our second suit. It shows at least 4 cards. When we have at least 18 points we can bid at 3 level. This is called jump-shift bid.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♠"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "KQ1097",
+            "hearts": "AQ93",
+            "diamonds": "A",
+            "clubs": "A109"
+        },
+        "options": [
+            "2NT",
+            "3NT",
+            "2♥",
+            "3♥"
+        ],
+        "correct_answer": "3♥",
+        "is_premium": false
+    },
+    {
         "id": "2026-08-14-konusma",
         "date": "2026-08-14",
         "type": "konusma",
