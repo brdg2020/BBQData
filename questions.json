@@ -1,5 +1,44 @@
 [
     {
+        "id": "2026-08-17-konusma",
+        "date": "2026-08-17",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortak NT açarsa minör renklere transfer edebiliriz. \n2maça en az 6 adet sinek gösterir.\n3sinek en az 6 adet karo gösterir.\nOrtaklar anlaşırsa başka yöntemler de kullanılabilir. Ör:2NT karo transferi oynanabilir.\nBu elle 2maça deriz ortak 3 sinek deyince Pas deriz.",
+        "explanation_en": "We can transfer minor suits as a responder of 1NT opening. \n2sp shows at least 6card clubs\n3cl shows at least 6card diamonds.\nSome partners can play 2NT as diamond transfer.\nSo we bid 2sp with this hand. When partner bids 3cl we can pass.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "487",
+            "hearts": "A2",
+            "diamonds": "J5",
+            "clubs": "876543"
+        },
+        "options": [
+            "Pass",
+            "2♠",
+            "3♣",
+            "2NT"
+        ],
+        "correct_answer": "2♠",
+        "is_premium": false
+    },
+    {
         "id": "2026-08-16-konusma",
         "date": "2026-08-16",
         "type": "konusma",
