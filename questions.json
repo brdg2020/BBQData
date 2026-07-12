@@ -1796,7 +1796,7 @@
         "title_tr": "Günün Sorusu",
         "title_en": "Daily Question",
         "explanation_tr": "Sıralının büyüğünü atak etmektense ortağın açtığı rengi atak etmek daha faydalı olabilir.",
-        "explanation_en": "We can lead partners' suit rather than torching honors in ♦️",
+        "explanation_en": "We can lead partners' suit rather than leading from touching honors in ♦️",
         "player_seat": "S",
         "player_name": "South",
         "bidding": [
@@ -1844,12 +1844,12 @@
             "clubs": "1064"
         },
         "options": [
-            "♥3",
-            "♦2",
-            "♣2",
-            "♣10"
+            "♥5",
+            "♦Q",
+            "♣4",
+            "♠6"
         ],
-        "correct_answer": "♣2",
+        "correct_answer": "♣4",
         "is_premium": false
     },
     {
