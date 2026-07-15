@@ -1,5 +1,52 @@
 [
     {
+        "id": "2026-08-21-konusma",
+        "date": "2026-08-21",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Açan olarak ikinci rengimizi okumak en az 4 kart gösterir. 2 maça en az 6 kart gösterir fakat karo fitimiz varsa bulamayaz.",
+        "explanation_en": "As an opener we can bid our second suit. 2spades shows at least 6 card but we cannot find our diamond fit.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♠"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "KQ7653",
+            "hearts": "K",
+            "diamonds": "AJ54",
+            "clubs": "76"
+        },
+        "options": [
+            "2♠",
+            "Pass",
+            "2♦",
+            "2♥"
+        ],
+        "correct_answer": "2♦",
+        "is_premium": false
+    },
+    {
         "id": "2026-08-20-konusma",
         "date": "2026-08-20",
         "type": "konusma",
