@@ -1,5 +1,60 @@
 [
     {
+        "id": "2026-08-23-konusma",
+        "date": "2026-08-23",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortak en az 5 maça ve en az 4 karo gösterdi. Birisini tercih etmeliyiz. 2kupa dersek ortakta kupa 0-1 kart olabilir. 2NT konuşmamız 10-11 puan gösterecektir. Bu nedenle \"tercih\" yaparak ortağın ilk rengine dönmeliyiz. Bu konuşma 2 adet maça gösterir.",
+        "explanation_en": "Partner showed at least 5card spades and at least 4card diamonds. If we bid 2hearts partner may have stiff in hearts. \n2NT shows invitation 10-11 points. So we should choose partners first suit. 2spades shows exactly 2 cards.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "1NT"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "2♦"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "75",
+            "hearts": "KQ654",
+            "diamonds": "K5",
+            "clubs": "9753"
+        },
+        "options": [
+            "Pass",
+            "2NT",
+            "2♥",
+            "2♠"
+        ],
+        "correct_answer": "2♠",
+        "is_premium": false
+    },
+    {
         "id": "2026-08-22-konusma",
         "date": "2026-08-22",
         "type": "konusma",
