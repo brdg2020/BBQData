@@ -1,5 +1,36 @@
 [
     {
+        "id": "2026-08-20-konusma",
+        "date": "2026-08-20",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "1 seviyesinde oyun açarsak ortak par geçebilir ve biz hala zon yapıyor olabiliriz. Bu nedenle sistemdeki en güçlü açışı yapmalıyız.",
+        "explanation_en": "If we open at 1 level partner may pass and we can still make game. So we should open 2clubs which is the strongest opening in 5c major system.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AKQ64",
+            "hearts": "AKQ65",
+            "diamonds": "K4",
+            "clubs": "4"
+        },
+        "options": [
+            "1♠",
+            "1♥",
+            "2NT",
+            "2♣"
+        ],
+        "correct_answer": "2♣",
+        "is_premium": false
+    },
+    {
         "id": "2026-08-19-konusma",
         "date": "2026-08-19",
         "type": "konusma",
