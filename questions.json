@@ -1,5 +1,40 @@
 [
     {
+        "id": "2026-08-22-konusma",
+        "date": "2026-08-22",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Araya giriş en az 5 kart gösterse de 5332 ellerle minörle araya girerken dikkat etmeliyiz. Genelde dengeli ellerle pas mantıklıdır. DBL atmak için kupa gerekli. 1NT demek için 15-17 puan gereklidir. Biliyorum aklınızdan \"2 seviysinde araya giriş en az 11 puan ve 5 kart gösterir.\" geçiyor fakat bu ellerle araya girmek bir şey kazandırmaz.",
+        "explanation_en": "Although Overcall shows at least 5 cards this hand is too balanced to bid. While overcalling at two level with minors we should be careful. DBL shows 4 card in hearts. 1NT shows 15-17 pts.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A32",
+            "hearts": "Q4",
+            "diamonds": "K83",
+            "clubs": "KJ953"
+        },
+        "options": [
+            "Pass",
+            "2♣",
+            "1NT",
+            "DBL"
+        ],
+        "correct_answer": "Pass",
+        "is_premium": false
+    },
+    {
         "id": "2026-08-21-konusma",
         "date": "2026-08-21",
         "type": "konusma",
