@@ -1821,7 +1821,7 @@
             "spades": "753",
             "hearts": "Q7642",
             "diamonds": "96",
-            "clubs": "J105"
+            "clubs": "J109"
         },
         "options": [
             "♠5",
@@ -1829,7 +1829,7 @@
             "♦9",
             "♣J"
         ],
-        "correct_answer": "♠5",
+        "correct_answer": "♣J",
         "is_premium": false
     },
     {
