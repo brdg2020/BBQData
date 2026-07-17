@@ -1716,7 +1716,7 @@
         "type": "konusma",
         "title_tr": "Günün Sorusu",
         "title_en": "Daily Question",
-        "explanation_tr": "Ortakta en az 2 adet maça var. Dengesiz elimiz olduğu için eksik puanla zon diyebiliriz.",
+        "explanation_tr": "Ortakta en az 2 adet maça var. Dengesiz elimiz olduğu için 9 onör puanla zon diyebiliriz.",
         "explanation_en": "We know partner has at least 2 spades. Since we have an unbalanced hand we can bid game.",
         "player_seat": "S",
         "player_name": "South",
@@ -1762,7 +1762,7 @@
             "4♠",
             "3NT"
         ],
-        "correct_answer": "Pass",
+        "correct_answer": "4♠",
         "is_premium": false
     },
     {
