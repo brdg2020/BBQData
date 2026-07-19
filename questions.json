@@ -1617,14 +1617,6 @@
             },
             {
                 "seat": "S",
-                "call": "1♣"
-            },
-            {
-                "seat": "W",
-                "call": "1♣"
-            },
-            {
-                "seat": "N",
                 "call": "?"
             }
         ],
@@ -1640,7 +1632,7 @@
             "3♦",
             "3♥"
         ],
-        "correct_answer": "3NT",
+        "correct_answer": "3♥",
         "is_premium": false
     },
     {
