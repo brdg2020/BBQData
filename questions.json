@@ -1558,7 +1558,7 @@
         "bidding": [
             {
                 "seat": "W",
-                "call": "1♠"
+                "call": "1♦"
             },
             {
                 "seat": "N",
@@ -1570,15 +1570,23 @@
             },
             {
                 "seat": "S",
-                "call": "P"
+                "call": "Pass"
             },
             {
                 "seat": "W",
-                "call": "P"
+                "call": "4♠"
             },
             {
                 "seat": "N",
-                "call": "P"
+                "call": "Pass"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "Pass"
             }
         ],
         "hand": {
