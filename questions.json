@@ -1,5 +1,52 @@
 [
     {
+        "id": "2026-09-01-konusma",
+        "date": "2026-09-01",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "ikinci rengi okumak en az 4 adet gösterir. ikinci rengi sıçrayarak okumak en az 18 puan gösterdiği için 3 kupa deriz. 3 sinek de diyebiliriz fakat öncelik her zaman majördedir.",
+        "explanation_en": "Showing second suit shows at least 4 card. Since we have at least 18 or more we bid second suit by jumping. We can also bid clubs but heart is more important.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♠"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "KQ1054",
+            "hearts": "AK96",
+            "diamonds": "",
+            "clubs": "AQJ6"
+        },
+        "options": [
+            "3NT",
+            "2♥",
+            "3♥",
+            "2♣"
+        ],
+        "correct_answer": "3♥",
+        "is_premium": false
+    },
+    {
         "id": "2026-08-31-konusma",
         "date": "2026-08-31",
         "type": "konusma",
