@@ -1,5 +1,44 @@
 [
     {
+        "id": "2026-08-24-konusma",
+        "date": "2026-08-24",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "10 onör puan ve fit ile davet ederiz. Davet için ortalama puan gereklidir. 10-11 puan ortalama puan olduğu için 3maça deriz. \nDavet konuşması başka şekillerde de yapılabilir. Örneğin 2NT, ya da 1NT'den geçip fit verilebilir. Önemli olan ortağınızla anlaşmanızdır.",
+        "explanation_en": "We invite with 10 honor points and a fit. An average pointe is required for the invitation. Since 10-11 points is the average points, we bid 3 spades.\n\nThe invitation bid can also be made in other ways. For example, a fit can be given after going from 2NT or 1NT. The important thing is to agree with your partner.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A75",
+            "hearts": "10985J",
+            "diamonds": "98",
+            "clubs": "KQ6"
+        },
+        "options": [
+            "2♠",
+            "3♠",
+            "1NT",
+            "2♥"
+        ],
+        "correct_answer": "3♠",
+        "is_premium": false
+    },
+    {
         "id": "2026-08-23-konusma",
         "date": "2026-08-23",
         "type": "konusma",
