@@ -1,5 +1,44 @@
 [
     {
+        "id": "2026-09-02-konusma",
+        "date": "2026-09-02",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "4kart fit varken 8 puanla bile davet edebiliriz. 3maça konuşması ile davet ederiz.\nSiz de farklı konvansiyonlar oynuyor olabilirsiniz. Örneğin Bergen konvansiyonu gibi. \nBergen konvansiyonuna göre 1Majöre 3 sinek ve 3karo konuşmaları 4lü fit ve davet ellerini gösterir. \nYa da 2NT cevabını fit+davet oynuyor da olabilirsiniz.\nBurada yapmanız gereken şey ortağınızla ne oynadığınızı teyit etmeniz.",
+        "explanation_en": "Even with a 4-card fit and 8 points, we can invite. We invite with 3 spades bid.\nYou might also be playing different conventions. For example, the Bergen Convention.\n\nAccording to the Bergen Convention, 1 Major, 3 clubs, and 3 diamonds responses over 1Major openings indicate a 4-card fit with an invitation hand.\n\nOr you might be playing a fit + invitation with a 2NT response. \nWhat you need to do here is confirm what you're playing with your partner.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "K1085",
+            "hearts": "85",
+            "diamonds": "K104",
+            "clubs": "K954"
+        },
+        "options": [
+            "1NT",
+            "2♠",
+            "3♠",
+            "4♠"
+        ],
+        "correct_answer": "3♠",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-01-konusma",
         "date": "2026-09-01",
         "type": "konusma",
