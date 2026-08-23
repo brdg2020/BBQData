@@ -1,5 +1,60 @@
 [
     {
+        "id": "2026-08-25-konusma",
+        "date": "2026-08-25",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Zon kesin, fakat hangi zonu oynayacağımız belli değil. Elimiz dengesiz olduğu için ikinci rengimizi söyleriz. Böylece ortak siyah renklerde kuvvetli ise 3NT oynayabiliriz. Kupa fiti varsa 4 kupa oynarız.",
+        "explanation_en": "We have game but not sure which game we will play. Since our hand is unbalanced we can bid our second suit. If partner is weak in black suits we can plan 5diamonds. If partner has many points in both black suits we can play 3NT or if she has a heart fit we play 4hearts.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "2♦"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "2♥"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "K63",
+            "hearts": "109532",
+            "diamonds": "AQJ4",
+            "clubs": "3"
+        },
+        "options": [
+            "2NT",
+            "4♥",
+            "3♦",
+            "3NT"
+        ],
+        "correct_answer": "3♦",
+        "is_premium": false
+    },
+    {
         "id": "2026-08-24-konusma",
         "date": "2026-08-24",
         "type": "konusma",
