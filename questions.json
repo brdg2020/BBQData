@@ -1,5 +1,60 @@
 [
     {
+        "id": "2026-08-28-konusma",
+        "date": "2026-08-28",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Zon kesin elimiz olduğu için önce puanımızı anlatırız. Bu nedenle 3. renk forcing konuşmasını yaparız. 2 kupa, en az davet eli gösterir ve ortaktan elini anlatmaya devam etmesini ister. 2maça, 3maça limite yani sınır konuşmalardır. 2maça 10 puandan az 3maça 10-11 puan gösterir.",
+        "explanation_en": "Since we have a game first we tell our points. We use 3rd suit forcing convention. 2herats shows at least invitation values. 2spades and 3spades are limit bids 2spades shows less than 10pts, 3spades shows 10-11 pts.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♦"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "1♠"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "2♦"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AQ8653",
+            "hearts": "J7",
+            "diamonds": "A65",
+            "clubs": "QJ"
+        },
+        "options": [
+            "3♦",
+            "3♠",
+            "2♠",
+            "2♥"
+        ],
+        "correct_answer": "2♥",
+        "is_premium": false
+    },
+    {
         "id": "2026-08-27-konusma",
         "date": "2026-08-27",
         "type": "konusma",
