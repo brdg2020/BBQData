@@ -1,5 +1,60 @@
 [
     {
+        "id": "2026-09-04-konusma",
+        "date": "2026-09-04",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortak 1NT diyerek elini sınırladı (lmitledi) 12-13-14 puanı var. Zon yapamıyoruz 2 kupa deyip oynamak mantıklı. \nDiğer seçenek de pass.",
+        "explanation_en": "Partner limited her hand by bidding 1NT, partner has 12-13-14 points. \nSince we can't make zone, playing for 2 hearts seems logical.\n\nAnother option is pass.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♦"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "1♥"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "1052",
+            "hearts": "AQ654",
+            "diamonds": "853",
+            "clubs": "K6"
+        },
+        "options": [
+            "Pass",
+            "2NT",
+            "2♥",
+            "2♦"
+        ],
+        "correct_answer": "2♥",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-03-konusma",
         "date": "2026-09-03",
         "type": "konusma",
