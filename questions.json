@@ -1,5 +1,56 @@
 [
     {
+        "id": "2026-09-03-konusma",
+        "date": "2026-09-03",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortakta en az 2 adet maça var bu nedenle maça fitimizden eminiz. 8 onör puan olmasına karşın kupamız olmadığı için az puanla bile zon demeliyiz. Direkt 4 maça. \n1NT ye direkt olarak 4 seviyesinde transferi de kullanabiliriz.\n1NT ye 4kupa\"texas transfer\" olarak oynanabilmektedir.\nBu konvansiyona göre 1NT'ye 4karo konuşması kupaları göstermektedir.",
+        "explanation_en": "Partner has at least 2 spades, so we are confident in our match fit. Despite having 8 honor points, we should bid 4 spades even with fewer points because we don't have any heaerts. We bid Direct 4 spades.\n\nWe can also use 4 level transfer against 1NT.\n1NT to 4 hearts can be played as a \"Texas transfer\". According to this convention, bidding 4 diamonds for 1NT shows at least 6 card hearts.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "2♥"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "2♠"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            }
+        ],
+        "hand": {
+            "spades": "J87543",
+            "hearts": "",
+            "diamonds": "K106",
+            "clubs": "A875"
+        },
+        "options": [
+            "3♥",
+            "4♥",
+            "3♠",
+            "4♠"
+        ],
+        "correct_answer": "4♠",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-02-konusma",
         "date": "2026-09-02",
         "type": "konusma",
