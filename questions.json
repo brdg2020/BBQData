@@ -1,5 +1,52 @@
 [
     {
+        "id": "2026-08-31-konusma",
+        "date": "2026-08-31",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortak limite olmadığı için pas geçemeyiz. \nEn az 4 kart maça gösterdiği için fit veremeyiz. \n2kupa konuşması en az 18 puan ve 5-4 dağılım gösterir. (reverse)\nBu nedenle doğru cevap 1NT'dir. 12-13-14 puan ve dengeli dağılım gösterir.",
+        "explanation_en": "We cannot pass because partner is not limited yet.\nWe cannot give fit because it shows at least 4 spade cards.\n2-heart bid shows at least 18 points and a 5-4 distribution. (reverse)\nTherefore, the correct answer is 1NT. It shows 12-13-14 points and a balanced distribution.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♣"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "642",
+            "hearts": "KJ75",
+            "diamonds": "Q4",
+            "clubs": "AQJ7"
+        },
+        "options": [
+            "Pass",
+            "1NT",
+            "2♥",
+            "2♠"
+        ],
+        "correct_answer": "1NT",
+        "is_premium": false
+    },
+    {
         "id": "2026-08-30-konusma",
         "date": "2026-08-30",
         "type": "konusma",
