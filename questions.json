@@ -1,5 +1,44 @@
 [
     {
+        "id": "2026-08-27-konusma",
+        "date": "2026-08-27",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Inverted minor konvansiyonu.\n4lü majörü olmayan en az 10-11 puan yani davet eli gösteren konuşmadır. 3NT yanlış değil fakat belki ortakta dengesiz bir el var ve 5minör oynayacağız?",
+        "explanation_en": "Inverted minor convention:\nNo 4 card major, at least invitation values. min 10-11 points. 3NT i also an option but partner may have unbalanced hand and we can play 5minor.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♣"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "J76",
+            "hearts": "A4",
+            "diamonds": "943",
+            "clubs": "AQJ95"
+        },
+        "options": [
+            "2♣",
+            "3♣",
+            "3NT",
+            "2NT"
+        ],
+        "correct_answer": "2♣",
+        "is_premium": false
+    },
+    {
         "id": "2026-08-26-konusma",
         "date": "2026-08-26",
         "type": "konusma",
