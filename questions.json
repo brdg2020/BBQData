@@ -1,5 +1,44 @@
 [
     {
+        "id": "2026-09-13-konusma",
+        "date": "2026-09-13",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "DBL ile Ortaktan renk isteriz. Buradaki dbl ceza değil ortağın konuşmasını ister.",
+        "explanation_en": "With DBL, we request a suit from the partner. Here, DBL isnt a penalty, it just asks the partner to bid.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "2♥"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "KQ94",
+            "hearts": "8",
+            "diamonds": "8543",
+            "clubs": "10942"
+        },
+        "options": [
+            "Pass",
+            "Dbl",
+            "2♠",
+            "3♥"
+        ],
+        "correct_answer": "Dbl",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-12-konusma",
         "date": "2026-09-12",
         "type": "konusma",
