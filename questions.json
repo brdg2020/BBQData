@@ -1,5 +1,52 @@
 [
     {
+        "id": "2026-09-06-konusma",
+        "date": "2026-09-06",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "2 over 1 oynarken bu sekansta renk tekrarı 12-14 göstermez limitsizdir. 2sinek konuşması zon kesin konuşma gösterir.\n2NT demek için dengeli ve en az 15 puan gereklidir.\n-Bazı oyuncular bu sekansta 2maça konuşmasını 6 kart oynamaktadır.",
+        "explanation_en": "When playing 2 over 1, rebidding suit in this sequence does not show 12-14; it is unlimited.  \n2 clubs bid indicates a zone bid. To bid 2NT over 2 clubs, a balanced bid of at least 15 points is required. \n-Some players may bid 2 spades with 6 cards in this sequence.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♠"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "2♣"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "KQ764",
+            "hearts": "A43",
+            "diamonds": "K6",
+            "clubs": "J96"
+        },
+        "options": [
+            "2NT",
+            "2♠",
+            "3♣",
+            "2♥"
+        ],
+        "correct_answer": "2♠",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-05-konusma",
         "date": "2026-09-05",
         "type": "konusma",
