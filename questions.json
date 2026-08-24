@@ -1,5 +1,44 @@
 [
     {
+        "id": "2026-09-11-konusma",
+        "date": "2026-09-11",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Splinter konuşması. \n10-11-12 puan, en az 4lü fit ve söylenen rengin tek olduğunu gösterir.\nDaha fazla puanımız olsaydı 2 over 1 yapardık. 2 seviyesinde yeni renk başlayıp sonra fit verirdik.",
+        "explanation_en": "Splinter bid.\n\nShows 10-11-12 points, at least a 4fit and that the stated color is singleton.\n If we had more points, we would do 2 over 1.\n We would start a new suit at level 2 and then give a fit.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "K854",
+            "hearts": "AJ1053",
+            "diamonds": "Q85",
+            "clubs": "2"
+        },
+        "options": [
+            "4♠",
+            "3♠",
+            "2♠",
+            "4♣"
+        ],
+        "correct_answer": "4♣",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-10-konusma",
         "date": "2026-09-10",
         "type": "konusma",
