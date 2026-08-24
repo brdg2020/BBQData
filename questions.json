@@ -1,5 +1,52 @@
 [
     {
+        "id": "2026-09-12-konusma",
+        "date": "2026-09-12",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortak 2NT ile davet etti. Ortalama puanı var. 10-11\nBizde 12-14 ün maksimumu olduğu için 3NT deriz.",
+        "explanation_en": "Partner invited with 2NT. Shows an average points of 10-11.\nSince our hand is maximum of 12-14 range, we'll bid 3NT.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♣"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "2NT"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AJ3",
+            "hearts": "K106",
+            "diamonds": "A109",
+            "clubs": "Q853"
+        },
+        "options": [
+            "Pass",
+            "3NT",
+            "3♣",
+            "3♦"
+        ],
+        "correct_answer": "3NT",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-11-konusma",
         "date": "2026-09-11",
         "type": "konusma",
