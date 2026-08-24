@@ -1,5 +1,44 @@
 [
     {
+        "id": "2026-09-10-konusma",
+        "date": "2026-09-10",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "En az davet gücü gösterir. Rakibi cezalandırmak üzere kullanılan bir konuşmadır. \n1karo, 1maça konuşmaları yanlış olmasa da bazen rakibi cezalandırmaya çalışmak daha karlı olabilmektedir.",
+        "explanation_en": "It shows at least invitational hand. It's a bid used for penalty.\n\nWhile bids like \"1 diamond, 1 spade\" aren't necessarily wrong, sometimes trying to punish the opponent can be more profitable.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♣"
+            },
+            {
+                "seat": "E",
+                "call": "Dbl"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "K986",
+            "hearts": "AK5",
+            "diamonds": "A843",
+            "clubs": "42"
+        },
+        "options": [
+            "Pass",
+            "1♦",
+            "Rdbl",
+            "1♠"
+        ],
+        "correct_answer": "Rdbl",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-09-konusma",
         "date": "2026-09-09",
         "type": "konusma",
