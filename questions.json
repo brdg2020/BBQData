@@ -1,5 +1,44 @@
 [
     {
+        "id": "2026-09-09-konusma",
+        "date": "2026-09-09",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortağa fitimiz olmasına rağmen kupayı aramak için dbl atmalıyız.\n2 kupa konuşması en az 5 kart ve ortalama puan gösterir.",
+        "explanation_en": "Even though we have a fit for our partner, we use dbl to find heart fit. 2 hearts bid shows at least 5 cards and an average points.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♣"
+            },
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "6",
+            "hearts": "AJ85",
+            "diamonds": "A854",
+            "clubs": "J1085"
+        },
+        "options": [
+            "2♥",
+            "2♦",
+            "DBL",
+            "2♣"
+        ],
+        "correct_answer": "DBL",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-08-konusma",
         "date": "2026-09-08",
         "type": "konusma",
