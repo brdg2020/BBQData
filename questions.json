@@ -1,5 +1,60 @@
 [
     {
+        "id": "2026-09-08-konusma",
+        "date": "2026-09-08",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortakta en az 5li maça en az 4lü karo öğrendik. 2 sinek konuşmamız zon kesin el gösterir.\nOrtakta kupa olmadığı için kupayı söylememize gerek yok. \nBurada 2kupa 4. renk olur, ortaktan daha fazla bilgi ister.\nKalan rengi (kupa) kestiğimiz için NT deriz. 3NT demek için acele etmeyiz, ortakta daha farklı bir dağılım olabilir.",
+        "explanation_en": "We learned at least 5 cards in spades and at least 4 cards in diamonds from our partner. Bidding 2 clubs definitely shows a game values. \nSince our partner doesn't have hearts, we don't need to bid hearts.\n\nHere, 2 hearts would be the 4th suit, requiring more information from our partner.\nSince we have a stopper in the remaining suit (hearts), we bid NT. We don't rush to bid 3NT; our partner might have a different distribution.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "2♣"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "2♦"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "98",
+            "hearts": "Q1065",
+            "diamonds": "J5",
+            "clubs": "AKQ54"
+        },
+        "options": [
+            "2NT",
+            "2♥",
+            "2♠",
+            "3♣"
+        ],
+        "correct_answer": "2NT",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-07-konusma",
         "date": "2026-09-07",
         "type": "konusma",
