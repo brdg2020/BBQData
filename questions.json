@@ -1,5 +1,48 @@
 [
     {
+        "id": "2026-09-14-konusma",
+        "date": "2026-09-14",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Rakipte en az 5 adet maça olduğundan maça rengini koz yapmak istemeyiz. Rakibi cezalandırmak için pas deyip ortağın DBL atmasını bekleriz. Ortak dbl atınca şimdi pas diyerek cezaya çevirmiş oluruz.",
+        "explanation_en": "Since the opponent has at least 5 spades, we don't want to make the spade suit a trump. \nWe pass and wait for our partner to double so that we can play 1spades doubled. \nWhen our partner double, we pass, turning it into a penalty.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "1♥"
+            },
+            {
+                "seat": "E",
+                "call": "1♠"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "KQ8654",
+            "hearts": "",
+            "diamonds": "AK54",
+            "clubs": "QJ6"
+        },
+        "options": [
+            "2♠",
+            "Pass",
+            "Dbl",
+            "2♦"
+        ],
+        "correct_answer": "Pass",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-13-konusma",
         "date": "2026-09-13",
         "type": "konusma",
