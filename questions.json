@@ -1,5 +1,40 @@
 [
     {
+        "id": "2026-09-16-konusma",
+        "date": "2026-09-16",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Araya girerken 18 ve daha fazla puan varken önce dbl atar sonra rengimizi okuruz. 1kupa araya  girişi 8-17 puan gösterir.",
+        "explanation_en": "When we have 18 or more points first dbl then bid your suiit. 1heart bid is limited 8-17 points.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♦"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A3",
+            "hearts": "AKQJ54",
+            "diamonds": "A",
+            "clubs": "J864"
+        },
+        "options": [
+            "1♥",
+            "4♥",
+            "1NT",
+            "Dbl"
+        ],
+        "correct_answer": "Dbl",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-15-konusma",
         "date": "2026-09-15",
         "type": "konusma",
