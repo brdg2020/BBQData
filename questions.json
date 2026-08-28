@@ -1,5 +1,52 @@
 [
     {
+        "id": "2026-09-17-konusma",
+        "date": "2026-09-17",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "2 over 1 konuşmasından sonra renk tekrarı 6 adet göstermez.\nİkinci rengi okumak sitoyrsak 15 civarı puanımızın olması gerektiğinden 3karo diyemiyoruz.\n2maça deyip ortağın konuşmasını bekleriz.",
+        "explanation_en": "After bidding 2 over 1, rebidding own suit doesn't show 6 cards.\nIf we want to bid the second suit, we need around 15 points, so we can't bid 3 diamonds.\nWe bid 2 spades and wait for our partner's bid.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♠"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "2♥"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AQ754",
+            "hearts": "4",
+            "diamonds": "J754",
+            "clubs": "AQ6"
+        },
+        "options": [
+            "2♠",
+            "2NT",
+            "3♦",
+            "3NT"
+        ],
+        "correct_answer": "2♠",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-16-konusma",
         "date": "2026-09-16",
         "type": "konusma",
