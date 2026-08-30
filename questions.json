@@ -1,5 +1,44 @@
 [
     {
+        "id": "2026-09-18-konusma",
+        "date": "2026-09-18",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortakta 7 adet maça ve ortalamadan az puan var. 10'dan az puanı var yani. Maçalardan çok kaybedebiliriz bu nedenle pas deriz. Gerçek fitimiz olsaydı, 2-3 adet maçamız zon derdik.",
+        "explanation_en": "Partner has 7 spades and less than average points which is less than 10 points. We could lose many trump tricks , so we'd say pass. \nIf we had truly fit, 2-3 spades we'd bid game.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "3♠"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "8",
+            "hearts": "AQ6",
+            "diamonds": "Q543",
+            "clubs": "AJ983"
+        },
+        "options": [
+            "Pass",
+            "3♠",
+            "3NT",
+            "4♣"
+        ],
+        "correct_answer": "Pass",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-17-konusma",
         "date": "2026-09-17",
         "type": "konusma",
