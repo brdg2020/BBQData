@@ -1,5 +1,44 @@
 [
     {
+        "id": "2026-09-19-konusma",
+        "date": "2026-09-19",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "NT karşısında 5-5 majörümüz varken puanımıza bakarız. Zon kesin ise önce maçaya transfer edip kupaları okuruz.\nYani önce 2kupa deriz. Ortak 2maça deyince 3kupa ile 5-5 dağılım ve zon kesin el gösteririz",
+        "explanation_en": "When we have a 5-5 major against NT, we look at our points. If the zone is certain, we first transfer to the spades and bid the hearts.\nSo we first bid 2 hearts. If the partner bids 2 spades, we show 3 hearts with a 5-5 distribution and a confirmed zone hand.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A7542",
+            "hearts": "AQ543",
+            "diamonds": "6",
+            "clubs": "32"
+        },
+        "options": [
+            "2♥ (J. transfer)",
+            "2♦ (J. transfer)",
+            "2♣ (stayman)",
+            "3NT"
+        ],
+        "correct_answer": "2♥ (J. transfer)",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-18-konusma",
         "date": "2026-09-18",
         "type": "konusma",
