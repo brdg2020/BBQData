@@ -1,5 +1,60 @@
 [
     {
+        "id": "2026-09-21-konusma",
+        "date": "2026-09-21",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Zon kesin fakat hangi zonu oynayacağız? Ortakta sinek kuvvetli değilse 5karo oynayabiliriz. Bu nedenle karoyu okuruz. 3karo konuşması en az 10 civarı puan, 5 adet karo ve dengesiz el gösterir.",
+        "explanation_en": "The Game is certain, but which game should we play? If our partner isn't strong in clubs, we can play 5 diamonds. Therefore, we'll bid the diamonds. 3 diamonds  bid indicates at least 10 points, 5 diamonds, and an unbalanced hand.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "N",
+                "call": "1NT"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "2♣"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "2♦"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "KJ107",
+            "hearts": "KQ10",
+            "diamonds": "J10864",
+            "clubs": "7"
+        },
+        "options": [
+            "2NT",
+            "3NT",
+            "2♠",
+            "3♦"
+        ],
+        "correct_answer": "3♦",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-20-konusma",
         "date": "2026-09-20",
         "type": "konusma",
