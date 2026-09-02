@@ -1,5 +1,36 @@
 [
     {
+        "id": "2026-09-23-konusma",
+        "date": "2026-09-23",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortakta 5'ten az puan varsa bile zon yapabiliriz. Bu nedenle en kuvvetli açışı, 2sinek, yaparız.",
+        "explanation_en": "Even if the partner has less than 5 points, we can make a game bid. Therefore, we make the strongest opening bid, 2 clubs.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "AKJ54",
+            "hearts": "AK84",
+            "diamonds": "4",
+            "clubs": "AK2"
+        },
+        "options": [
+            "1♠",
+            "2NT",
+            "2♣",
+            "2♠"
+        ],
+        "correct_answer": "2♣",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-22-konusma",
         "date": "2026-09-22",
         "type": "konusma",
