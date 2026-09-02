@@ -1,5 +1,48 @@
 [
     {
+        "id": "2026-09-24-konusma",
+        "date": "2026-09-24",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Cue-bid. Rakip rengi okumak fit ve en az ortalama puan gösterir. Yani en az 10-11 puan. Baika bir deyişle en az davet gücü gösterir.",
+        "explanation_en": "Cue-bid shows at least average points with fit. 10-11 points is the average points. \nIn other words it shows at least invitation values.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "W",
+                "call": "1♠"
+            },
+            {
+                "seat": "N",
+                "call": "2♥"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "K865",
+            "hearts": "Q653",
+            "diamonds": "83",
+            "clubs": "AJ4"
+        },
+        "options": [
+            "2♥",
+            "3♥",
+            "2♠",
+            "4♥"
+        ],
+        "correct_answer": "2♠",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-23-konusma",
         "date": "2026-09-23",
         "type": "konusma",
