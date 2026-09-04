@@ -1,5 +1,52 @@
 [
     {
+        "id": "2026-09-25-konusma",
+        "date": "2026-09-25",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortak davet etti. Ortalama puanı var. Normalde toplam puanımız 25 olmasa da dengesiz ellerle 25'ten az puanla zon yapılabilir. Bu nedenle 4maça deriz.",
+        "explanation_en": "Partner shows invitation values. Partner has average points (10-11). Normally, our total points isn't 25, but with unbalanced hands, a game can be made with less than 25 points. That's why we should bid 4 spades.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♠"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "3♠"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "KQJ65",
+            "hearts": "KQJ9",
+            "diamonds": "",
+            "clubs": "7654"
+        },
+        "options": [
+            "Pass",
+            "4♣",
+            "4♥",
+            "4♠"
+        ],
+        "correct_answer": "4♠",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-24-konusma",
         "date": "2026-09-24",
         "type": "konusma",
