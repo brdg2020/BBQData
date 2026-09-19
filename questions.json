@@ -1,5 +1,48 @@
 [
     {
+        "id": "2026-09-26-konusma",
+        "date": "2026-09-26",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortakta en az açar puan ve sinek dışındaki renklere hazır bir dağılım var. Öncelik majörde olduğu için maçayı okuruz. Dikkat etmemiz gerek şey puanımızı sıçrayarak anlatmaktır. \nDbl'a 1 maça ortalamadan az 2 maça ortalama puan 3 maça ortalama ve 5kart gösterir.",
+        "explanation_en": "Partner has at least opening values and a hand open to suits other than clubs. We  should bid major first and tell our strength by jumping. \n1 spades response would show less than average, 2 spades shows average, 3spades shows average with 5 cards.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "W",
+                "call": "1♣"
+            },
+            {
+                "seat": "N",
+                "call": "Dbl"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A763",
+            "hearts": "KQ4",
+            "diamonds": "Q953",
+            "clubs": "65"
+        },
+        "options": [
+            "1♠",
+            "1♦",
+            "2NT",
+            "2♠"
+        ],
+        "correct_answer": "2♠",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-25-konusma",
         "date": "2026-09-25",
         "type": "konusma",
