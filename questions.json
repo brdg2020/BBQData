@@ -284,12 +284,12 @@
             "clubs": "32"
         },
         "options": [
-            "2♥ (J. transfer)",
-            "2♦ (J. transfer)",
-            "2♣ (stayman)",
+            "2♥ (Jacoby tr.)",
+            "2♦ (Jacoby tr.)",
+            "2♣ (Stayman)",
             "3NT"
         ],
-        "correct_answer": "2♥ (J. transfer)",
+        "correct_answer": "2♥ (Jacoby tr.)",
         "is_premium": false
     },
     {
