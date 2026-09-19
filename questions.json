@@ -1,5 +1,52 @@
 [
     {
+        "id": "2026-09-28-konusma",
+        "date": "2026-09-28",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Açan olarak ortağa fit verirken puanımızı da anlatırız. 3maça 16 civarı puan gösterir.",
+        "explanation_en": "As an opener we give information about our points while giving fit. Simple raise would show 12-13-14 points so we jump to 3spades shoeing around 16 points.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♥"
+            },
+            {
+                "seat": "W",
+                "call": "Pass"
+            },
+            {
+                "seat": "N",
+                "call": "1♠"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "QJ107",
+            "hearts": "AK753",
+            "diamonds": "Q4",
+            "clubs": "A6"
+        },
+        "options": [
+            "2♠",
+            "2♥",
+            "1NT",
+            "3♠"
+        ],
+        "correct_answer": "3♠",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-27-konusma",
         "date": "2026-09-27",
         "type": "konusma",
