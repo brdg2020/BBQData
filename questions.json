@@ -1,5 +1,40 @@
 [
     {
+        "id": "2026-09-29-konusma",
+        "date": "2026-09-29",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "2 seviyesinde araya girşlerde dikkat etmeliyiz. Özellikle minör overcalları kaliteli (onörlü) en az 6 adet olmalı. Genelde 5li ile araya girilse de 2minör araya girişleri özeldir.",
+        "explanation_en": "Be careful when overcalling with minor suit at level 2. Minor overcalls should be at least 6 card with honors. Usually overcalls are told to be 5 cards minor overcalls are exceptional especially at level 2 or more.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "E",
+                "call": "1♥"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "65",
+            "hearts": "A54",
+            "diamonds": "KJ4",
+            "clubs": "KJ763"
+        },
+        "options": [
+            "2♣",
+            "Dbl",
+            "Pas",
+            "1NT"
+        ],
+        "correct_answer": "Pas",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-28-konusma",
         "date": "2026-09-28",
         "type": "konusma",
