@@ -1,5 +1,52 @@
 [
     {
+        "id": "2026-09-30-konusma",
+        "date": "2026-09-30",
+        "type": "konusma",
+        "title_tr": "Günün Sorusu",
+        "title_en": "Daily Question",
+        "explanation_tr": "Ortak uzun karolarla pas geçmiş olabileceği için ortağa \"konuş\" deriz yani Dbl atarız. Ortakta uzun karolar varsa pas geçer, karoları uzun ve kaliteli değilse karo dışında bir renk söyler. \n1 maça konuşması da doğru gibi görünse de  doğru cevap dbldır.",
+        "explanation_en": "Partner may have solid diamonds so we should dbl to save partners penalty. If partner doesn't have long diamond she can bid other suits.\n1 spade bid seems so be right but dbl is the correct answer.",
+        "player_seat": "S",
+        "player_name": "South",
+        "bidding": [
+            {
+                "seat": "S",
+                "call": "1♣"
+            },
+            {
+                "seat": "W",
+                "call": "1♦"
+            },
+            {
+                "seat": "N",
+                "call": "Pass"
+            },
+            {
+                "seat": "E",
+                "call": "Pass"
+            },
+            {
+                "seat": "S",
+                "call": "?"
+            }
+        ],
+        "hand": {
+            "spades": "A653",
+            "hearts": "K54",
+            "diamonds": "5",
+            "clubs": "AQ1083"
+        },
+        "options": [
+            "1♠",
+            "2♣",
+            "Pass",
+            "Dbl"
+        ],
+        "correct_answer": "Dbl",
+        "is_premium": false
+    },
+    {
         "id": "2026-09-29-konusma",
         "date": "2026-09-29",
         "type": "konusma",
